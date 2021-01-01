@@ -7,6 +7,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0001</b>|[Two Sum](https://github.com/washing1127/LeetCode/blob/main/0001/0001.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0001/0001.py)|
 |<b style="color: orange">0003</b>|[Longest Substring Without Repeating Characters](https://github.com/washing1127/LeetCode/blob/main/0003/0003.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0003/0003.py)|
 |<b style="color: orange">0006</b>|[ZigZag Conversion](https://github.com/washing1127/LeetCode/blob/main/0006/0006.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0006/0006.py)|
+|<b style="color: orange">0008</b>|[String to Integer (atoi)](https://github.com/washing1127/LeetCode/blob/main/0008/0008.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0008/0008.py)|
 |<b style="color: green">0014</b>|[Longest Common Prefix](https://github.com/washing1127/LeetCode/blob/main/0014/0014.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0014/0014.py)|
 |<b style="color: green">0020</b>|[Valid Parentheses](https://github.com/washing1127/LeetCode/blob/main/0020/0020.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0020/0020.py)|
 |<b style="color: green">0027</b>|[Remove Element](https://github.com/washing1127/LeetCode/blob/main/0027/0027.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0027/0027.py)|

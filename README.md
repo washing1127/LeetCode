@@ -5,6 +5,7 @@ The solutions of LeetCode questions.
 |num|title|answer|
 |:---:|:---:|---|
 |<b style="color: green">0001</b>|[Two Sum](https://github.com/washing1127/LeetCode/blob/main/0001/0001.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0001/0001.py)|
+|<b style="color: orange">0002</b>|[Add Two Numbers](https://github.com/washing1127/LeetCode/blob/main/0002/0002.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0002/0002.py)|
 |<b style="color: orange">0003</b>|[Longest Substring Without Repeating Characters](https://github.com/washing1127/LeetCode/blob/main/0003/0003.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0003/0003.py)|
 |<b style="color: orange">0006</b>|[ZigZag Conversion](https://github.com/washing1127/LeetCode/blob/main/0006/0006.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0006/0006.py)|
 |<b style="color: orange">0008</b>|[String to Integer (atoi)](https://github.com/washing1127/LeetCode/blob/main/0008/0008.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0008/0008.py)|

@@ -16,4 +16,5 @@ The solutions of LeetCode questions.
 |<b style="color: green">0035</b>|[Search Insert Position](https://github.com/washing1127/LeetCode/blob/main/0035/0035.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0035/0035.py)|
 |<b style="color: green">0038</b>|[Count and Say](https://github.com/washing1127/LeetCode/blob/main/0038/0038.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0038/0038.py)|
 |<b style="color: orange">0049</b>|[Group Anagrams](https://github.com/washing1127/LeetCode/blob/main/0049/0049.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0049/0049.py)|
+|<b style="color: orange">0086</b>|[Partition List](https://github.com/washing1127/LeetCode/blob/main/0086/0086.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0086/0086.py)|
 |<b style="color: orange">0435</b>|[Non-overlapping Intervals](https://github.com/washing1127/LeetCode/blob/main/0435/0435.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0435/0435.py)|

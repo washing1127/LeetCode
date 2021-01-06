@@ -11,6 +11,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0008</b>|[String to Integer (atoi)](https://github.com/washing1127/LeetCode/blob/main/0008/0008.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0008/0008.py)|
 |<b style="color: green">0014</b>|[Longest Common Prefix](https://github.com/washing1127/LeetCode/blob/main/0014/0014.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0014/0014.py)|
 |<b style="color: green">0020</b>|[Valid Parentheses](https://github.com/washing1127/LeetCode/blob/main/0020/0020.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0020/0020.py)|
+|<b style="color: green">0021</b>|[Merge Two Sorted Lists](https://github.com/washing1127/LeetCode/blob/main/0021/0021.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0021/0021.py)|
 |<b style="color: green">0027</b>|[Remove Element](https://github.com/washing1127/LeetCode/blob/main/0027/0027.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0027/0027.py)|
 |<b style="color: green">0028</b>|[Implement strStr](https://github.com/washing1127/LeetCode/blob/main/0028/0028.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0028/0028.py)|
 |<b style="color: green">0035</b>|[Search Insert Position](https://github.com/washing1127/LeetCode/blob/main/0035/0035.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0035/0035.py)|

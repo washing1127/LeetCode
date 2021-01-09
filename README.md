@@ -19,6 +19,8 @@ The solutions of LeetCode questions.
 |<b style="color: green">0038</b>|[Count and Say](https://github.com/washing1127/LeetCode/blob/main/0038/0038.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0038/0038.py)|
 |<b style="color: orange">0049</b>|[Group Anagrams](https://github.com/washing1127/LeetCode/blob/main/0049/0049.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0049/0049.py)|
 |<b style="color: orange">0086</b>|[Partition List](https://github.com/washing1127/LeetCode/blob/main/0086/0086.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0086/0086.py)|
+|<b style="color: green">0088</b>|[Merge Sorted Array](https://github.com/washing1127/LeetCode/blob/main/0088/0088.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0088/0088.py)|
+|<b style="color: orange">0189</b>|[Rotate Array](https://github.com/washing1127/LeetCode/blob/main/0189/0189.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0189/0189.py)|
 |<b style="color: orange">0435</b>|[Non-overlapping Intervals](https://github.com/washing1127/LeetCode/blob/main/0435/0435.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0435/0435.py)|
 |<b style="color: green">0509</b>|[Fibonacci Number](https://github.com/washing1127/LeetCode/blob/main/0509/0509.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0509/0509.py)|
 |<b style="color: green">0830</b>|[Positions of Large Groups](https://github.com/washing1127/LeetCode/blob/main/0830/0830.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0830/0830.py)|

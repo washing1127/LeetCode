@@ -18,6 +18,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0035</b>|[Search Insert Position](https://github.com/washing1127/LeetCode/blob/main/0035/0035.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0035/0035.py)|
 |<b style="color: green">0038</b>|[Count and Say](https://github.com/washing1127/LeetCode/blob/main/0038/0038.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0038/0038.py)|
 |<b style="color: orange">0049</b>|[Group Anagrams](https://github.com/washing1127/LeetCode/blob/main/0049/0049.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0049/0049.py)|
+|<b style="color: green">0053</b>|[Maximum Subarray](https://github.com/washing1127/LeetCode/blob/main/0053/0053.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0053/0053.py)|
 |<b style="color: orange">0086</b>|[Partition List](https://github.com/washing1127/LeetCode/blob/main/0086/0086.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0086/0086.py)|
 |<b style="color: green">0088</b>|[Merge Sorted Array](https://github.com/washing1127/LeetCode/blob/main/0088/0088.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0088/0088.py)|
 |<b style="color: orange">0189</b>|[Rotate Array](https://github.com/washing1127/LeetCode/blob/main/0189/0189.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0189/0189.py)|

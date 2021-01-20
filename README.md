@@ -27,6 +27,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0083</b>|[Remove Duplicates from Sorted List](https://github.com/washing1127/LeetCode/blob/main/0083/0083.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0083/0083.py)|
 |<b style="color: orange">0086</b>|[Partition List](https://github.com/washing1127/LeetCode/blob/main/0086/0086.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0086/0086.py)|
 |<b style="color: green">0088</b>|[Merge Sorted Array](https://github.com/washing1127/LeetCode/blob/main/0088/0088.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0088/0088.py)|
+|<b style="color: green">0122</b>|[Best Time to Buy and Sell Stock II](https://github.com/washing1127/LeetCode/blob/main/0122/0122.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0122/0122.py)|
 |<b style="color: green">0125</b>|[Valid Palindrome](https://github.com/washing1127/LeetCode/blob/main/0125/0125.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0125/0125.py)|
 |<b style="color: green">0136</b>|[Single Number](https://github.com/washing1127/LeetCode/blob/main/0136/0136.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0136/0136.py)|
 |<b style="color: green">0141</b>|[Linked List Cycle](https://github.com/washing1127/LeetCode/blob/main/0141/0141.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0141/0141.py)|

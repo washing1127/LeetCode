@@ -36,3 +36,4 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0435</b>|[Non-overlapping Intervals](https://github.com/washing1127/LeetCode/blob/main/0435/0435.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0435/0435.py)|
 |<b style="color: green">0509</b>|[Fibonacci Number](https://github.com/washing1127/LeetCode/blob/main/0509/0509.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0509/0509.py)|
 |<b style="color: green">0830</b>|[Positions of Large Groups](https://github.com/washing1127/LeetCode/blob/main/0830/0830.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0830/0830.py)|
+|<b style="color: green">0989</b>|[Add to Array-Form of Integer](https://github.com/washing1127/LeetCode/blob/main/0989/0989.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0989/0989.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0989/0989.java)|

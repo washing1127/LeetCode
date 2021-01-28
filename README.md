@@ -42,5 +42,5 @@ The solutions of LeetCode questions.
 |<b style="color: green">0509</b>|[Fibonacci Number](https://github.com/washing1127/LeetCode/blob/main/0509/0509.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0509/0509.py)|
 |<b style="color: green">0830</b>|[Positions of Large Groups](https://github.com/washing1127/LeetCode/blob/main/0830/0830.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0830/0830.py)|
 |<b style="color: green">0989</b>|[Add to Array-Form of Integer](https://github.com/washing1127/LeetCode/blob/main/0989/0989.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0989/0989.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0989/0989.java)|
-
+|<b style="color: green">剑指Offer64</b>|[求1+2+…+n](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.py) [Java](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.java)[C++](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.cpp)|
 

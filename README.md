@@ -19,6 +19,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0028</b>|[Implement strStr](https://github.com/washing1127/LeetCode/blob/main/0028/0028.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0028/0028.py)|
 |<b style="color: green">0035</b>|[Search Insert Position](https://github.com/washing1127/LeetCode/blob/main/0035/0035.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0035/0035.py)|
 |<b style="color: green">0038</b>|[Count and Say](https://github.com/washing1127/LeetCode/blob/main/0038/0038.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0038/0038.py)|
+|<b style="color: red">0042</b>|[Trapping Rain Water](https://github.com/washing1127/LeetCode/blob/main/0042/0042.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0042/0042.py)|
 |<b style="color: orange">0049</b>|[Group Anagrams](https://github.com/washing1127/LeetCode/blob/main/0049/0049.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0049/0049.py)|
 |<b style="color: green">0053</b>|[Maximum Subarray](https://github.com/washing1127/LeetCode/blob/main/0053/0053.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0053/0053.py)|
 |<b style="color: green">0058</b>|[Length of Last Word](https://github.com/washing1127/LeetCode/blob/main/0058/0058.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0058/0058.py)|

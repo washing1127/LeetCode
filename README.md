@@ -46,6 +46,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0195</b>|[Tenth Line](https://github.com/washing1127/LeetCode/blob/main/0195/0195.txt)|[bash](https://github.com/washing1127/LeetCode/blob/main/0195/0195.sh)|
 |<b style="color: green">0206</b>|[Reverse Linked List](https://github.com/washing1127/LeetCode/blob/main/0206/0206.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0206/0206.py)|
 |<b style="color: orange">0435</b>|[Non-overlapping Intervals](https://github.com/washing1127/LeetCode/blob/main/0435/0435.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0435/0435.py)|
+|<b style="color: orange">0448</b>|[Find All Numbers Disappeared in an Array](https://github.com/washing1127/LeetCode/blob/main/0448/0448.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0448/0448.py)|
 |<b style="color: green">0509</b>|[Fibonacci Number](https://github.com/washing1127/LeetCode/blob/main/0509/0509.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0509/0509.py)|
 |<b style="color: orange">0567</b>|[Permutation in String](https://github.com/washing1127/LeetCode/blob/main/0567/0567.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0567/0567.py)|
 |<b style="color: green">0643</b>|[Maximum Average Subarray I](https://github.com/washing1127/LeetCode/blob/main/0643/0643.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0643/0643.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0643/0643.java)|

@@ -17,4 +17,4 @@ class Solution:
 
         # return ret
 
-        return list(map(list, zip(*matrix)))
+        return list(zip(*matrix))

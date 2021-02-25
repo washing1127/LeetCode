@@ -60,6 +60,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0766</b>|[Toeplitz Matrix](https://github.com/washing1127/LeetCode/blob/main/0766/0766.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0766/0766.py)|
 |<b style="color: green">0823</b>|[Flipping an Image](https://github.com/washing1127/LeetCode/blob/main/0823/0823.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0823/0823.py)|
 |<b style="color: green">0830</b>|[Positions of Large Groups](https://github.com/washing1127/LeetCode/blob/main/0830/0830.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0830/0830.py)|
+|<b style="color: green">0867</b>|[Transpose Matrix](https://github.com/washing1127/LeetCode/blob/main/0867/0867.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0867/0867.py)|
 |<b style="color: orange">0978</b>|[Positions of Large Groups](https://github.com/washing1127/LeetCode/blob/main/0978/0978.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0978/0978.py)|
 |<b style="color: green">0989</b>|[Add to Array-Form of Integer](https://github.com/washing1127/LeetCode/blob/main/0989/0989.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0989/0989.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0989/0989.java)|
 |<b style="color: red">0992</b>|[Subarrays with K Different Integers](https://github.com/washing1127/LeetCode/blob/main/0992/0992.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0992/0992.py)|

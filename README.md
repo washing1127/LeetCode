@@ -34,7 +34,8 @@ The solutions of LeetCode questions.
 |<b style="color: green">0119</b>|[Pascal's Triangle II](https://github.com/washing1127/LeetCode/blob/main/0119/0119.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0119/0119.py)|
 |<b style="color: green">0122</b>|[Best Time to Buy and Sell Stock II](https://github.com/washing1127/LeetCode/blob/main/0122/0122.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0122/0122.py)|
 |<b style="color: green">0125</b>|[Valid Palindrome](https://github.com/washing1127/LeetCode/blob/main/0125/0125.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0125/0125.py)|
-|<b style="color: green">0131</b>|[Palindrome Partitioning](https://github.com/washing1127/LeetCode/blob/main/0131/0131.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0131/0131.py)|
+|<b style="color: orange">0131</b>|[Palindrome Partitioning](https://github.com/washing1127/LeetCode/blob/main/0131/0131.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0131/0131.py)|
+|<b style="color: red">0132</b>|[Palindrome Partitioning](https://github.com/washing1127/LeetCode/blob/main/0132/0132.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0132/0132.py)|
 |<b style="color: green">0136</b>|[Single Number](https://github.com/washing1127/LeetCode/blob/main/0136/0136.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0136/0136.py)|
 |<b style="color: green">0141</b>|[Linked List Cycle](https://github.com/washing1127/LeetCode/blob/main/0141/0141.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0141/0141.py)|
 |<b style="color: green">0155</b>|[Min Stack](https://github.com/washing1127/LeetCode/blob/main/0155/0155.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0155/0155.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0155/0155.java)|

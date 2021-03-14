@@ -70,6 +70,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0697</b>|[Degree of an Array](https://github.com/washing1127/LeetCode/blob/main/0697/0697.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0697/0697.py)|
 |<b style="color: green">0703</b>|[Kth Largest Element in a Stream](https://github.com/washing1127/LeetCode/blob/main/0703/0703.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0703/0703.py)|
 |<b style="color: green">0705</b>|[Design HashSet](https://github.com/washing1127/LeetCode/blob/main/0705/0705.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0705/0705.py)|
+|<b style="color: green">0706</b>|[Design HashMap](https://github.com/washing1127/LeetCode/blob/main/0706/0706.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0706/0706.py)|
 |<b style="color: red">0765</b>|[Couples Holding Hands](https://github.com/washing1127/LeetCode/blob/main/0765/0765.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0765/0765.py)|
 |<b style="color: red">0766</b>|[Toeplitz Matrix](https://github.com/washing1127/LeetCode/blob/main/0766/0766.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0766/0766.py)|
 |<b style="color: green">0823</b>|[Flipping an Image](https://github.com/washing1127/LeetCode/blob/main/0823/0823.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0823/0823.py)|

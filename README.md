@@ -61,6 +61,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0304</b>|[Range Sum Query 2D - Immutable](https://github.com/washing1127/LeetCode/blob/main/0304/0304.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0304/0304.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0304/0304.java)|
 |<b style="color: orange">0331</b>|[Verify Preorder Serialization of a Binary Tree](https://github.com/washing1127/LeetCode/blob/main/0331/0331.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0331/0331.py)|
 |<b style="color: orange">0338</b>|[Counting Bits](https://github.com/washing1127/LeetCode/blob/main/0338/0338.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0338/0338.py)|
+|<b style="color: orange">0341</b>|[Flatten Nested List Iterator](https://github.com/washing1127/LeetCode/blob/main/0341/0341.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0341/0341.py)|
 |<b style="color: red">0354</b>|[Russian Doll Envelopes](https://github.com/washing1127/LeetCode/blob/main/0354/0354.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0354/0354.py)|
 |<b style="color: orange">0395</b>|[Longest Substring with At Least K Repeating Characters](https://github.com/washing1127/LeetCode/blob/main/0395/0395.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0395/0395.py)|
 |<b style="color: orange">0435</b>|[Non-overlapping Intervals](https://github.com/washing1127/LeetCode/blob/main/0435/0435.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0435/0435.py)|

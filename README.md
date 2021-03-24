@@ -66,6 +66,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0395</b>|[Longest Substring with At Least K Repeating Characters](https://github.com/washing1127/LeetCode/blob/main/0395/0395.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0395/0395.py)|
 |<b style="color: orange">0435</b>|[Non-overlapping Intervals](https://github.com/washing1127/LeetCode/blob/main/0435/0435.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0435/0435.py)|
 |<b style="color: green">0448</b>|[Find All Numbers Disappeared in an Array](https://github.com/washing1127/LeetCode/blob/main/0448/0448.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0448/0448.py)|
+|<b style="color: orange">0448</b>|[132 Pattern](https://github.com/washing1127/LeetCode/blob/main/0456/0456.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0456/0456.py)|
 |<b style="color: green">0485</b>|[Max Consecutive Ones](https://github.com/washing1127/LeetCode/blob/main/0485/0485.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0485/0485.py)|
 |<b style="color: orange">0503</b>|[Next Greater Element II](https://github.com/washing1127/LeetCode/blob/main/0503/0503.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0503/0503.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0503/0503.java)|
 |<b style="color: green">0509</b>|[Fibonacci Number](https://github.com/washing1127/LeetCode/blob/main/0509/0509.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0509/0509.py)|

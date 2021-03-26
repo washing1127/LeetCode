@@ -32,7 +32,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0070</b>|[Climbing Stairs](https://github.com/washing1127/LeetCode/blob/main/0070/0070.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0070/0070.py)|
 |<b style="color: orange">0073</b>|[Set Matrix Zeroes](https://github.com/washing1127/LeetCode/blob/main/0073/0073.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0073/0073.py)|
 |<b style="color: orange">0082</b>|[Remove Duplicates from Sorted List II](https://github.com/washing1127/LeetCode/blob/main/0082/0082.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0082/0082.py)|
-|<b style="color: green">0083</b>|[Remove Duplicates from Sorted List](https://github.com/washing1127/LeetCode/blob/main/0083/0083.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0083/0083.py)|
+|<b style="color: green">0083</b>|[Remove Duplicates from Sorted List](https://github.com/washing1127/LeetCode/blob/main/0083/0083.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0083/0083.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0083/0083.java)|
 |<b style="color: orange">0086</b>|[Partition List](https://github.com/washing1127/LeetCode/blob/main/0086/0086.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0086/0086.py)|
 |<b style="color: green">0088</b>|[Merge Sorted Array](https://github.com/washing1127/LeetCode/blob/main/0088/0088.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0088/0088.py)|
 |<b style="color: orange">0092</b>|[Reverse Linked List II](https://github.com/washing1127/LeetCode/blob/main/0092/0092.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0092/0092.py)|

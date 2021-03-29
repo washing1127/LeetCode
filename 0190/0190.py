@@ -11,3 +11,14 @@ class Solution:
         for idx, i in enumerate(s):
             num += 2**idx*int(i)
         return num
+
+        # DateTime: 2021/3/29 16:55
+
+        # ans = 0
+        # for i in range(32):
+        #     res = n % 2
+        #     ans = (ans << 1) + res
+        #     n >>= 1
+        # return ans
+
+        # return int(f"{int(bin(n)[2:]):032d}"[::-1],2)

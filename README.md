@@ -95,6 +95,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0992</b>|[Subarrays with K Different Integers](https://github.com/washing1127/LeetCode/blob/main/0992/0992.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0992/0992.py)|
 |<b style="color: red">0995</b>|[Minimum Number of K Consecutive Bit Flips](https://github.com/washing1127/LeetCode/blob/main/0995/0995.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0995/0995.py)|
 |<b style="color: orange">1004</b>|[Max Consecutive Ones III](https://github.com/washing1127/LeetCode/blob/main/1004/1004.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1004/1004.py) [Java](https://github.com/washing1127/LeetCode/blob/main/1004/1004.java)|
+|<b style="color: orange">1006</b>|[Clumsy Factorial](https://github.com/washing1127/LeetCode/blob/main/1006/1006.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1006/1006.py)|
 |<b style="color: green">1047</b>|[Remove All Adjacent Duplicates In String](https://github.com/washing1127/LeetCode/blob/main/1047/1047.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1047/1047.py)|
 |<b style="color: orange">1052</b>|[Grumpy Bookstore](https://github.com/washing1127/LeetCode/blob/main/1052/1052.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1052/1052.py)|
 |<b style="color: red">1178</b>|[Number of Valid Words for Each Puzzle](https://github.com/washing1127/LeetCode/blob/main/1178/1178.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1178/1178.py)|

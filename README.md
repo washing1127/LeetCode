@@ -98,6 +98,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">1006</b>|[Clumsy Factorial](https://github.com/washing1127/LeetCode/blob/main/1006/1006.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1006/1006.py)|
 |<b style="color: green">1047</b>|[Remove All Adjacent Duplicates In String](https://github.com/washing1127/LeetCode/blob/main/1047/1047.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1047/1047.py)|
 |<b style="color: orange">1052</b>|[Grumpy Bookstore](https://github.com/washing1127/LeetCode/blob/main/1052/1052.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1052/1052.py)|
+|<b style="color: greem">1143</b>|[Longest Common Subsequence](https://github.com/washing1127/LeetCode/blob/main/1143/1143.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1143/1143.py)|
 |<b style="color: red">1178</b>|[Number of Valid Words for Each Puzzle](https://github.com/washing1127/LeetCode/blob/main/1178/1178.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1178/1178.py)|
 |<b style="color: orange">1208</b>|[Get Equal Substrings Within Budget](https://github.com/washing1127/LeetCode/blob/main/1208/1208.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1208/1208.py) [Java](https://github.com/washing1127/LeetCode/blob/main/1208/1208.java)|
 |<b style="color: green">1365</b>|[How Many Numbers Are Smaller Than the Current Number](https://github.com/washing1127/LeetCode/blob/main/1365/1365.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1365/1365.py)|

@@ -66,6 +66,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0206</b>|[Reverse Linked List](https://github.com/washing1127/LeetCode/blob/main/0206/0206.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0206/0206.py)|
 |<b style="color: orange">0208</b>|[Implement Trie (Prefix Tree)](https://github.com/washing1127/LeetCode/blob/main/0208/0208.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0208/0208.py)|
 |<b style="color: orange">0213</b>|[House Robber II)](https://github.com/washing1127/LeetCode/blob/main/0213/0213.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0213/0213.py)|
+|<b style="color: orange">0220</b>|[Contains Duplicate III](https://github.com/washing1127/LeetCode/blob/main/0220/0220.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0220/0220.py)|
 |<b style="color: red">0224</b>|[Basic Calculator](https://github.com/washing1127/LeetCode/blob/main/0224/0224.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0224/0224.py)|
 |<b style="color: orange">0227</b>|[Basic Calculator II](https://github.com/washing1127/LeetCode/blob/main/0227/0227.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0227/0227.py)|
 |<b style="color: green">0232</b>|[Implement Queue using Stacks](https://github.com/washing1127/LeetCode/blob/main/0232/0232.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0232/0232.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0232/0232.java)|

@@ -41,6 +41,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0087</b>|[Scramble String](https://github.com/washing1127/LeetCode/blob/main/0087/0087.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0087/0087.py)|
 |<b style="color: green">0088</b>|[Merge Sorted Array](https://github.com/washing1127/LeetCode/blob/main/0088/0088.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0088/0088.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0088/0088.java)|
 |<b style="color: orange">0090</b>|[Subsets II](https://github.com/washing1127/LeetCode/blob/main/0090/0090.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0090/0090.py)|
+|<b style="color: orange">0091</b>|[Decode Ways](https://github.com/washing1127/LeetCode/blob/main/0091/0091.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0091/0091.py)|
 |<b style="color: orange">0092</b>|[Reverse Linked List II](https://github.com/washing1127/LeetCode/blob/main/0092/0092.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0092/0092.py)|
 |<b style="color: red">0115</b>|[Distinct Subsequences](https://github.com/washing1127/LeetCode/blob/main/0115/0115.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0115/0115.py)|
 |<b style="color: green">0119</b>|[Pascal's Triangle II](https://github.com/washing1127/LeetCode/blob/main/0119/0119.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0119/0119.py)|

@@ -81,6 +81,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0341</b>|[Flatten Nested List Iterator](https://github.com/washing1127/LeetCode/blob/main/0341/0341.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0341/0341.py)|
 |<b style="color: red">0354</b>|[Russian Doll Envelopes](https://github.com/washing1127/LeetCode/blob/main/0354/0354.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0354/0354.py)|
 |<b style="color: red">0363</b>|[Max Sum of Rectangle No Larger Than K](https://github.com/washing1127/LeetCode/blob/main/0363/0363.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0363/0363.py)|
+|<b style="color: orange">0368</b>|[Largest Divisible Subset](https://github.com/washing1127/LeetCode/blob/main/0368/0368.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0368/0368.py)|
 |<b style="color: orange">0395</b>|[Longest Substring with At Least K Repeating Characters](https://github.com/washing1127/LeetCode/blob/main/0395/0395.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0395/0395.py)|
 |<b style="color: orange">0435</b>|[Non-overlapping Intervals](https://github.com/washing1127/LeetCode/blob/main/0435/0435.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0435/0435.py)|
 |<b style="color: green">0448</b>|[Find All Numbers Disappeared in an Array](https://github.com/washing1127/LeetCode/blob/main/0448/0448.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0448/0448.py)|

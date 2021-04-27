@@ -15,10 +15,11 @@ class Solution:
         self.ret = 0
         
         def parse(cur):
-            if low <= cur.val <= high:
-                self.ret += cur.val
-            if cur.left != None: parse(cur.left)
-            if cur.right != None: parse(cur.right)
+            num = cur.val
+            if low <= num <= high:
+                self.ret += num
+            if num > low and cur.left != None: parse(cur.left)
+            if num < high and cur.right != None: parse(cur.right)
 
         parse(root)
 

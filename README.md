@@ -50,6 +50,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0131</b>|[Palindrome Partitioning](https://github.com/washing1127/LeetCode/blob/main/0131/0131.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0131/0131.py)|
 |<b style="color: red">0132</b>|[Palindrome Partitioning](https://github.com/washing1127/LeetCode/blob/main/0132/0132.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0132/0132.py)|
 |<b style="color: green">0136</b>|[Single Number](https://github.com/washing1127/LeetCode/blob/main/0136/0136.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0136/0136.py)|
+|<b style="color: orange">0137</b>|[Single Number II](https://github.com/washing1127/LeetCode/blob/main/0137/0137.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0137/0137.py)|
 |<b style="color: green">0141</b>|[Linked List Cycle](https://github.com/washing1127/LeetCode/blob/main/0141/0141.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0141/0141.py)|
 |<b style="color: orange">0150</b>|[Evaluate Reverse Polish Notation](https://github.com/washing1127/LeetCode/blob/main/0150/0150.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0150/0150.py)|
 |<b style="color: orange">0153</b>|[Find Minimum in Rotated Sorted Array](https://github.com/washing1127/LeetCode/blob/main/0153/0153.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0153/0153.py)|

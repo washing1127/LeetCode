@@ -98,6 +98,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0633</b>|[Sum of Square Numbers](https://github.com/washing1127/LeetCode/blob/main/0633/0633.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0633/0633.py)|
 |<b style="color: green">0643</b>|[Maximum Average Subarray I](https://github.com/washing1127/LeetCode/blob/main/0643/0643.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0643/0643.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0643/0643.java)|
 |<b style="color: green">0665</b>|[Non-decreasing Array](https://github.com/washing1127/LeetCode/blob/main/0665/0665.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0665/0665.py)|
+|<b style="color: green">0690</b>|[Employee Importance](https://github.com/washing1127/LeetCode/blob/main/0690/0690.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0690/0690.py)|
 |<b style="color: green">0697</b>|[Degree of an Array](https://github.com/washing1127/LeetCode/blob/main/0697/0697.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0697/0697.py)|
 |<b style="color: green">0703</b>|[Kth Largest Element in a Stream](https://github.com/washing1127/LeetCode/blob/main/0703/0703.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0703/0703.py)|
 |<b style="color: green">0705</b>|[Design HashSet](https://github.com/washing1127/LeetCode/blob/main/0705/0705.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0705/0705.py)|

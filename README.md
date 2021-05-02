@@ -92,6 +92,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0485</b>|[Max Consecutive Ones](https://github.com/washing1127/LeetCode/blob/main/0485/0485.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0485/0485.py)|
 |<b style="color: orange">0503</b>|[Next Greater Element II](https://github.com/washing1127/LeetCode/blob/main/0503/0503.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0503/0503.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0503/0503.java)|
 |<b style="color: green">0509</b>|[Fibonacci Number](https://github.com/washing1127/LeetCode/blob/main/0509/0509.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0509/0509.py)|
+|<b style="color: orange">0554</b>|[Brick Wall](https://github.com/washing1127/LeetCode/blob/main/0554/0554.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0554/0554.py)|
 |<b style="color: green">0561</b>|[Array Partition I](https://github.com/washing1127/LeetCode/blob/main/0561/0561.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0561/0561.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0561/0561.java)|
 |<b style="color: orange">0566</b>|[Reshape the Matrix](https://github.com/washing1127/LeetCode/blob/main/0566/0566.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0566/0566.py)|
 |<b style="color: orange">0567</b>|[Permutation in String](https://github.com/washing1127/LeetCode/blob/main/0567/0567.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0567/0567.py)|

@@ -8,7 +8,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0002</b>|[Add Two Numbers](https://github.com/washing1127/LeetCode/blob/main/0002/0002.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0002/0002.py)|
 |<b style="color: orange">0003</b>|[Longest Substring Without Repeating Characters](https://github.com/washing1127/LeetCode/blob/main/0003/0003.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0003/0003.py)|
 |<b style="color: orange">0006</b>|[ZigZag Conversion](https://github.com/washing1127/LeetCode/blob/main/0006/0006.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0006/0006.py)|
-|<b style="color: green">0007</b>|[Reverse Integer](https://github.com/washing1127/LeetCode/blob/main/0007/0007.txt)|[Java](https://github.com/washing1127/LeetCode/blob/main/0007/0007.java)|
+|<b style="color: green">0007</b>|[Reverse Integer](https://github.com/washing1127/LeetCode/blob/main/0007/0007.txt)|[Python](https://github.com/washing1127/LeetCode/blob/main/0007/0007.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0007/0007.java)|
 |<b style="color: orange">0008</b>|[String to Integer (atoi)](https://github.com/washing1127/LeetCode/blob/main/0008/0008.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0008/0008.py)|
 |<b style="color: green">0014</b>|[Longest Common Prefix](https://github.com/washing1127/LeetCode/blob/main/0014/0014.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0014/0014.py)|
 |<b style="color: orange">0017</b>|[Letter Combinations of a Phone Number](https://github.com/washing1127/LeetCode/blob/main/0017/0017.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0017/0017.py)|

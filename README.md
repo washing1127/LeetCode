@@ -145,6 +145,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">1720</b>|[Decode XORed Array](https://github.com/washing1127/LeetCode/blob/main/1720/1720.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1720/1720.py)|
 |<b style="color: red">1723</b>|[Find Minimum Time to Finish All Jobs](https://github.com/washing1127/LeetCode/blob/main/1723/1723.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1723/1723.py)|
 |<b style="color: orange">1734</b>|[Decode XORed Permutation](https://github.com/washing1127/LeetCode/blob/main/1734/1734.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1734/1734.py)|
+|<b style="color: orange">1738</b>|[Find Kth Largest XOR Coordinate Value](https://github.com/washing1127/LeetCode/blob/main/1738/1738.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1738/1738.py)|
 |<b style="color: orange">剑指Offer64</b>|[求1+2+…+n](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.py) [Java](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.java) [C++](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.cpp)|
 |<b style="color: red">面试题17.21</b>|[Volume of Histogram LCCI](https://github.com/washing1127/LeetCode/blob/main/面试题17.21/面试题17.21.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/面试题17.21/面试题17.21.py)|
 

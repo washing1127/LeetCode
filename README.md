@@ -145,6 +145,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">1482</b>|[Minimum Number of Days to Make m Bouquets](https://github.com/washing1127/LeetCode/blob/main/1482/1482.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1482/1482.py)|
 |<b style="color: green">1486</b>|[XOR Operation in an Array](https://github.com/washing1127/LeetCode/blob/main/1486/1486.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1486/1486.py)|
 |<b style="color: green">1603</b>|[Design Parking System](https://github.com/washing1127/LeetCode/blob/main/1603/1603.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1603/1603.py) [Java](https://github.com/washing1127/LeetCode/blob/main/1603/1603.java)|
+|<b style="color: red">1707</b>|[Maximum XOR With an Element From Array](https://github.com/washing1127/LeetCode/blob/main/1707/1707.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1707/1707.py)|
 |<b style="color: green">1720</b>|[Decode XORed Array](https://github.com/washing1127/LeetCode/blob/main/1720/1720.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1720/1720.py)|
 |<b style="color: red">1723</b>|[Find Minimum Time to Finish All Jobs](https://github.com/washing1127/LeetCode/blob/main/1723/1723.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1723/1723.py)|
 |<b style="color: orange">1734</b>|[Decode XORed Permutation](https://github.com/washing1127/LeetCode/blob/main/1734/1734.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1734/1734.py)|

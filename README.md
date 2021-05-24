@@ -102,6 +102,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0629</b>|[Top K Frequent Words](https://github.com/washing1127/LeetCode/blob/main/0629/0629.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0629/0629.py)|
 |<b style="color: orange">0633</b>|[Sum of Square Numbers](https://github.com/washing1127/LeetCode/blob/main/0633/0633.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0633/0633.py)|
 |<b style="color: green">0643</b>|[Maximum Average Subarray I](https://github.com/washing1127/LeetCode/blob/main/0643/0643.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0643/0643.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0643/0643.java)|
+|<b style="color: red">0664</b>|[Strange Printer](https://github.com/washing1127/LeetCode/blob/main/0664/0664.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0664/0664.py)|
 |<b style="color: green">0665</b>|[Non-decreasing Array](https://github.com/washing1127/LeetCode/blob/main/0665/0665.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0665/0665.py)|
 |<b style="color: green">0690</b>|[Employee Importance](https://github.com/washing1127/LeetCode/blob/main/0690/0690.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0690/0690.py)|
 |<b style="color: green">0697</b>|[Degree of an Array](https://github.com/washing1127/LeetCode/blob/main/0697/0697.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0697/0697.py)|
@@ -113,7 +114,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0766</b>|[Toeplitz Matrix](https://github.com/washing1127/LeetCode/blob/main/0766/0766.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0766/0766.py)|
 |<b style="color: orange">0781</b>|[Rabbits in Forest](https://github.com/washing1127/LeetCode/blob/main/0781/0781.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0781/0781.py)|
 |<b style="color: green">0783</b>|[Minimum Distance Between BST Nodes](https://github.com/washing1127/LeetCode/blob/main/0783/0783.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0783/0783.py)|
-|<b style="color: green">0810</b>|[Chalkboard XOR Game](https://github.com/washing1127/LeetCode/blob/main/0810/0810.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0810/0810.py)|
+|<b style="color: red">0810</b>|[Chalkboard XOR Game](https://github.com/washing1127/LeetCode/blob/main/0810/0810.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0810/0810.py)|
 |<b style="color: green">0823</b>|[Flipping an Image](https://github.com/washing1127/LeetCode/blob/main/0823/0823.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0823/0823.py)|
 |<b style="color: green">0830</b>|[Positions of Large Groups](https://github.com/washing1127/LeetCode/blob/main/0830/0830.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0830/0830.py)|
 |<b style="color: green">0867</b>|[Transpose Matrix](https://github.com/washing1127/LeetCode/blob/main/0867/0867.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0867/0867.py)|

@@ -135,6 +135,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">1035</b>|[Uncrossed Lines](https://github.com/washing1127/LeetCode/blob/main/1035/1035.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1035/1035.py)|
 |<b style="color: green">1047</b>|[Remove All Adjacent Duplicates In String](https://github.com/washing1127/LeetCode/blob/main/1047/1047.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1047/1047.py)|
 |<b style="color: orange">1052</b>|[Grumpy Bookstore](https://github.com/washing1127/LeetCode/blob/main/1052/1052.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1052/1052.py)|
+|<b style="color: red">1074</b>|[Number of Submatrices That Sum to Target](https://github.com/washing1127/LeetCode/blob/main/1074/1074.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1074/1074.py)|
 |<b style="color: greem">1143</b>|[Longest Common Subsequence](https://github.com/washing1127/LeetCode/blob/main/1143/1143.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1143/1143.py)|
 |<b style="color: red">1178</b>|[Number of Valid Words for Each Puzzle](https://github.com/washing1127/LeetCode/blob/main/1178/1178.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1178/1178.py)|
 |<b style="color: orange">1190</b>|[Reverse Substrings Between Each Pair of Parentheses](https://github.com/washing1127/LeetCode/blob/main/1190/1190.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1190/1190.py)|

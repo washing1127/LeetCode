@@ -73,6 +73,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0220</b>|[Contains Duplicate III](https://github.com/washing1127/LeetCode/blob/main/0220/0220.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0220/0220.py)|
 |<b style="color: red">0224</b>|[Basic Calculator](https://github.com/washing1127/LeetCode/blob/main/0224/0224.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0224/0224.py)|
 |<b style="color: orange">0227</b>|[Basic Calculator II](https://github.com/washing1127/LeetCode/blob/main/0227/0227.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0227/0227.py)|
+|<b style="color: green">0231</b>|[Power of Two](https://github.com/washing1127/LeetCode/blob/main/0231/0231.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0231/0231.py)|
 |<b style="color: green">0232</b>|[Implement Queue using Stacks](https://github.com/washing1127/LeetCode/blob/main/0232/0232.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0232/0232.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0232/0232.java)|
 |<b style="color: green">0263</b>|[Ugly Number](https://github.com/washing1127/LeetCode/blob/main/0263/0263.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0263/0263.py)|
 |<b style="color: orange">0264</b>|[Ugly Number II](https://github.com/washing1127/LeetCode/blob/main/0264/0264.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0264/0264.py)|

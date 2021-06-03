@@ -100,6 +100,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0503</b>|[Next Greater Element II](https://github.com/washing1127/LeetCode/blob/main/0503/0503.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0503/0503.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0503/0503.java)|
 |<b style="color: green">0509</b>|[Fibonacci Number](https://github.com/washing1127/LeetCode/blob/main/0509/0509.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0509/0509.py)|
 |<b style="color: orange">0523</b>|[Continuous Subarray Sum](https://github.com/washing1127/LeetCode/blob/main/0523/0523.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0523/0523.py)|
+|<b style="color: orange">0525</b>|[Continuous Array](https://github.com/washing1127/LeetCode/blob/main/0525/0525.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0525/0525.py)|
 |<b style="color: orange">0554</b>|[Brick Wall](https://github.com/washing1127/LeetCode/blob/main/0554/0554.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0554/0554.py)|
 |<b style="color: green">0561</b>|[Array Partition I](https://github.com/washing1127/LeetCode/blob/main/0561/0561.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0561/0561.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0561/0561.java)|
 |<b style="color: orange">0566</b>|[Reshape the Matrix](https://github.com/washing1127/LeetCode/blob/main/0566/0566.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0566/0566.py)|

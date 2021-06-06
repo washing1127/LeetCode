@@ -97,6 +97,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0448</b>|[Find All Numbers Disappeared in an Array](https://github.com/washing1127/LeetCode/blob/main/0448/0448.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0448/0448.py)|
 |<b style="color: orange">0456</b>|[132 Pattern](https://github.com/washing1127/LeetCode/blob/main/0456/0456.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0456/0456.py)|
 |<b style="color: green">0461</b>|[Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/0461/0461.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0461/0461.py)|
+|<b style="color: orange">0474</b>|[Ones and Zeroes](https://github.com/washing1127/LeetCode/blob/main/0474/0474.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0474/0474.py)|
 |<b style="color: orange">0477</b>|[Total Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/0477/0477.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0477/0477.py)|
 |<b style="color: green">0485</b>|[Max Consecutive Ones](https://github.com/washing1127/LeetCode/blob/main/0485/0485.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0485/0485.py)|
 |<b style="color: orange">0503</b>|[Next Greater Element II](https://github.com/washing1127/LeetCode/blob/main/0503/0503.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0503/0503.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0503/0503.java)|

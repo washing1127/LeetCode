@@ -100,6 +100,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0474</b>|[Ones and Zeroes](https://github.com/washing1127/LeetCode/blob/main/0474/0474.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0474/0474.py)|
 |<b style="color: orange">0477</b>|[Total Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/0477/0477.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0477/0477.py)|
 |<b style="color: green">0485</b>|[Max Consecutive Ones](https://github.com/washing1127/LeetCode/blob/main/0485/0485.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0485/0485.py)|
+|<b style="color: orange">0494</b>|[Target Sum](https://github.com/washing1127/LeetCode/blob/main/0494/0494.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0494/0494.py)|
 |<b style="color: orange">0503</b>|[Next Greater Element II](https://github.com/washing1127/LeetCode/blob/main/0503/0503.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0503/0503.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0503/0503.java)|
 |<b style="color: green">0509</b>|[Fibonacci Number](https://github.com/washing1127/LeetCode/blob/main/0509/0509.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0509/0509.py)|
 |<b style="color: orange">0523</b>|[Continuous Subarray Sum](https://github.com/washing1127/LeetCode/blob/main/0523/0523.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0523/0523.py)|

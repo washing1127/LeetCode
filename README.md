@@ -129,6 +129,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0830</b>|[Positions of Large Groups](https://github.com/washing1127/LeetCode/blob/main/0830/0830.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0830/0830.py)|
 |<b style="color: green">0867</b>|[Transpose Matrix](https://github.com/washing1127/LeetCode/blob/main/0867/0867.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0867/0867.py)|
 |<b style="color: green">0872</b>|[Leaf-Similar Trees](https://github.com/washing1127/LeetCode/blob/main/0872/0872.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0872/0872.py)|
+|<b style="color: red">0879</b>|[Profitable Schemes](https://github.com/washing1127/LeetCode/blob/main/0879/0879.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0879/0879.py)|
 |<b style="color: green">0896</b>|[Monotonic Array](https://github.com/washing1127/LeetCode/blob/main/0896/0896.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0896/0896.py)|
 |<b style="color: green">0897</b>|[Increasing Order Search Tree](https://github.com/washing1127/LeetCode/blob/main/0897/0897.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0897/0897.py)|
 |<b style="color: orange">0938</b>|[Range Sum of BST](https://github.com/washing1127/LeetCode/blob/main/0938/0938.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0938/0938.py)|

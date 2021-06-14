@@ -91,6 +91,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0354</b>|[Russian Doll Envelopes](https://github.com/washing1127/LeetCode/blob/main/0354/0354.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0354/0354.py)|
 |<b style="color: red">0363</b>|[Max Sum of Rectangle No Larger Than K](https://github.com/washing1127/LeetCode/blob/main/0363/0363.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0363/0363.py)|
 |<b style="color: orange">0368</b>|[Largest Divisible Subset](https://github.com/washing1127/LeetCode/blob/main/0368/0368.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0368/0368.py)|
+|<b style="color: green">0374</b>|[Guess Number Higher or Lower](https://github.com/washing1127/LeetCode/blob/main/0374/0374.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0374/0374.py)|
 |<b style="color: orange">0377</b>|[Combination Sum IV](https://github.com/washing1127/LeetCode/blob/main/0377/0377.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0377/0377.py)|
 |<b style="color: orange">0395</b>|[Longest Substring with At Least K Repeating Characters](https://github.com/washing1127/LeetCode/blob/main/0395/0395.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0395/0395.py)|
 |<b style="color: red">0403</b>|[Frog Jump](https://github.com/washing1127/LeetCode/blob/main/0403/0403.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0403/0403.py)|

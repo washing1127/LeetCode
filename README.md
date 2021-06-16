@@ -134,6 +134,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0852</b>|[Peak Index in a Mountain Array](https://github.com/washing1127/LeetCode/blob/main/0852/0852.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0852/0852.py)|
 |<b style="color: green">0867</b>|[Transpose Matrix](https://github.com/washing1127/LeetCode/blob/main/0867/0867.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0867/0867.py)|
 |<b style="color: green">0872</b>|[Leaf-Similar Trees](https://github.com/washing1127/LeetCode/blob/main/0872/0872.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0872/0872.py)|
+|<b style="color: orange">0877</b>|[Stone Game](https://github.com/washing1127/LeetCode/blob/main/0877/0877.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0877/0877.py)|
 |<b style="color: red">0879</b>|[Profitable Schemes](https://github.com/washing1127/LeetCode/blob/main/0879/0879.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0879/0879.py)|
 |<b style="color: green">0896</b>|[Monotonic Array](https://github.com/washing1127/LeetCode/blob/main/0896/0896.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0896/0896.py)|
 |<b style="color: green">0897</b>|[Increasing Order Search Tree](https://github.com/washing1127/LeetCode/blob/main/0897/0897.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0897/0897.py)|

@@ -29,6 +29,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0058</b>|[Length of Last Word](https://github.com/washing1127/LeetCode/blob/main/0058/0058.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0058/0058.py)|
 |<b style="color: orange">0059</b>|[Spiral Matrix II](https://github.com/washing1127/LeetCode/blob/main/0059/0059.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0059/0059.py)|
 |<b style="color: orange">0061</b>|[Rotate List](https://github.com/washing1127/LeetCode/blob/main/0061/0061.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0061/0061.py)|
+|<b style="color: red">0065</b>|[Valid Number](https://github.com/washing1127/LeetCode/blob/main/0065/0065.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0065/0065.py)|
 |<b style="color: green">0066</b>|[Plus One](https://github.com/washing1127/LeetCode/blob/main/0066/0066.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0066/0066.py)|
 |<b style="color: green">0067</b>|[Add Binary](https://github.com/washing1127/LeetCode/blob/main/0067/0067.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0067/0067.py)|
 |<b style="color: green">0069</b>|[Sqrt(x)](https://github.com/washing1127/LeetCode/blob/main/0069/0069.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0069/0069.py)|

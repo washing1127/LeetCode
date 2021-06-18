@@ -103,6 +103,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0461</b>|[Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/0461/0461.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0461/0461.py)|
 |<b style="color: orange">0474</b>|[Ones and Zeroes](https://github.com/washing1127/LeetCode/blob/main/0474/0474.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0474/0474.py)|
 |<b style="color: orange">0477</b>|[Total Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/0477/0477.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0477/0477.py)|
+|<b style="color: red">0483</b>|[Smallest Good Base](https://github.com/washing1127/LeetCode/blob/main/0483/0483.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0483/0483.py)|
 |<b style="color: green">0485</b>|[Max Consecutive Ones](https://github.com/washing1127/LeetCode/blob/main/0485/0485.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0485/0485.py)|
 |<b style="color: orange">0494</b>|[Target Sum](https://github.com/washing1127/LeetCode/blob/main/0494/0494.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0494/0494.py)|
 |<b style="color: orange">0503</b>|[Next Greater Element II](https://github.com/washing1127/LeetCode/blob/main/0503/0503.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0503/0503.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0503/0503.java)|

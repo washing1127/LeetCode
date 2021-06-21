@@ -95,6 +95,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0374</b>|[Guess Number Higher or Lower](https://github.com/washing1127/LeetCode/blob/main/0374/0374.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0374/0374.py)|
 |<b style="color: orange">0377</b>|[Combination Sum IV](https://github.com/washing1127/LeetCode/blob/main/0377/0377.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0377/0377.py)|
 |<b style="color: orange">0395</b>|[Longest Substring with At Least K Repeating Characters](https://github.com/washing1127/LeetCode/blob/main/0395/0395.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0395/0395.py)|
+|<b style="color: green">0401</b>|[Binary Watch](https://github.com/washing1127/LeetCode/blob/main/0401/0401.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0401/0401.py)|
 |<b style="color: red">0403</b>|[Frog Jump](https://github.com/washing1127/LeetCode/blob/main/0403/0403.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0403/0403.py)|
 |<b style="color: orange">0421</b>|[Maximum XOR of Two Numbers in an Array](https://github.com/washing1127/LeetCode/blob/main/0421/0421.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0421/0421.py)|
 |<b style="color: orange">0435</b>|[Non-overlapping Intervals](https://github.com/washing1127/LeetCode/blob/main/0435/0435.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0435/0435.py)|

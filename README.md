@@ -55,6 +55,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0136</b>|[Single Number](https://github.com/washing1127/LeetCode/blob/main/0136/0136.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0136/0136.py)|
 |<b style="color: orange">0137</b>|[Single Number II](https://github.com/washing1127/LeetCode/blob/main/0137/0137.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0137/0137.py)|
 |<b style="color: green">0141</b>|[Linked List Cycle](https://github.com/washing1127/LeetCode/blob/main/0141/0141.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0141/0141.py)|
+|<b style="color: red">0149</b>|[Max Points on a Line](https://github.com/washing1127/LeetCode/blob/main/0149/0149.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0149/0149.py)|
 |<b style="color: orange">0150</b>|[Evaluate Reverse Polish Notation](https://github.com/washing1127/LeetCode/blob/main/0150/0150.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0150/0150.py)|
 |<b style="color: orange">0153</b>|[Find Minimum in Rotated Sorted Array](https://github.com/washing1127/LeetCode/blob/main/0153/0153.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0153/0153.py)|
 |<b style="color: orange">0154</b>|[Find Minimum in Rotated Sorted Array II](https://github.com/washing1127/LeetCode/blob/main/0154/0154.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0154/0154.py)|

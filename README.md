@@ -128,6 +128,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0705</b>|[Design HashSet](https://github.com/washing1127/LeetCode/blob/main/0705/0705.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0705/0705.py)|
 |<b style="color: green">0706</b>|[Design HashMap](https://github.com/washing1127/LeetCode/blob/main/0706/0706.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0706/0706.py)|
 |<b style="color: orange">0740</b>|[Delete and Earn](https://github.com/washing1127/LeetCode/blob/main/0740/0740.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0740/0740.py)|
+|<b style="color: orange">0752</b>|[Open the Lock](https://github.com/washing1127/LeetCode/blob/main/0752/0752.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0752/0752.py)|
 |<b style="color: red">0765</b>|[Couples Holding Hands](https://github.com/washing1127/LeetCode/blob/main/0765/0765.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0765/0765.py)|
 |<b style="color: red">0766</b>|[Toeplitz Matrix](https://github.com/washing1127/LeetCode/blob/main/0766/0766.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0766/0766.py)|
 |<b style="color: orange">0781</b>|[Rabbits in Forest](https://github.com/washing1127/LeetCode/blob/main/0781/0781.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0781/0781.py)|

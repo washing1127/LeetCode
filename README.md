@@ -131,6 +131,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0752</b>|[Open the Lock](https://github.com/washing1127/LeetCode/blob/main/0752/0752.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0752/0752.py)|
 |<b style="color: red">0765</b>|[Couples Holding Hands](https://github.com/washing1127/LeetCode/blob/main/0765/0765.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0765/0765.py)|
 |<b style="color: red">0766</b>|[Toeplitz Matrix](https://github.com/washing1127/LeetCode/blob/main/0766/0766.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0766/0766.py)|
+|<b style="color: red">0773</b>|[Sliding Puzzle](https://github.com/washing1127/LeetCode/blob/main/0773/0773.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0773/0773.py)|
 |<b style="color: orange">0781</b>|[Rabbits in Forest](https://github.com/washing1127/LeetCode/blob/main/0781/0781.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0781/0781.py)|
 |<b style="color: green">0783</b>|[Minimum Distance Between BST Nodes](https://github.com/washing1127/LeetCode/blob/main/0783/0783.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0783/0783.py)|
 |<b style="color: red">0810</b>|[Chalkboard XOR Game](https://github.com/washing1127/LeetCode/blob/main/0810/0810.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0810/0810.py)|

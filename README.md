@@ -184,6 +184,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">1738</b>|[Find Kth Largest XOR Coordinate Value](https://github.com/washing1127/LeetCode/blob/main/1738/1738.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1738/1738.py)|
 |<b style="color: orange">1744</b>|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://github.com/washing1127/LeetCode/blob/main/1744/1744.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1744/1744.py)|
 |<b style="color: red">1787</b>|[Make the XOR of All Segments Equal to Zero](https://github.com/washing1127/LeetCode/blob/main/1787/1787.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1787/1787.py)|
+|<b style="color: orange">1833</b>|[Maximum Ice Cream Bars](https://github.com/washing1127/LeetCode/blob/main/1833/1833.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1833/1833.py)|
 |<b style="color: green">LCP07</b>|[传递信息](https://github.com/washing1127/LeetCode/blob/main/LCP07/LCP07.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/LCP07/LCP07.py)|
 |<b style="color: orange">剑指Offer15</b>|[二进制中1的个数](https://github.com/washing1127/LeetCode/blob/main/Offer15/Offer15.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer15/Offer15.py)|
 |<b style="color: red">剑指Offer37</b>|[序列化二叉树](https://github.com/washing1127/LeetCode/blob/main/Offer37/Offer37.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer37/Offer37.py)|

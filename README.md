@@ -101,6 +101,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0421</b>|[Maximum XOR of Two Numbers in an Array](https://github.com/washing1127/LeetCode/blob/main/0421/0421.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0421/0421.py)|
 |<b style="color: orange">0435</b>|[Non-overlapping Intervals](https://github.com/washing1127/LeetCode/blob/main/0435/0435.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0435/0435.py)|
 |<b style="color: green">0448</b>|[Find All Numbers Disappeared in an Array](https://github.com/washing1127/LeetCode/blob/main/0448/0448.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0448/0448.py)|
+|<b style="color: orange">0451</b>|[132 Pattern](https://github.com/washing1127/LeetCode/blob/main/0451/0451.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0451/0451.java)|
 |<b style="color: orange">0456</b>|[132 Pattern](https://github.com/washing1127/LeetCode/blob/main/0456/0456.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0456/0456.py)|
 |<b style="color: green">0461</b>|[Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/0461/0461.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0461/0461.py)|
 |<b style="color: orange">0474</b>|[Ones and Zeroes](https://github.com/washing1127/LeetCode/blob/main/0474/0474.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0474/0474.py)|

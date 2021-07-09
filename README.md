@@ -197,5 +197,6 @@ The solutions of LeetCode questions.
 |<b style="color: red">剑指Offer37</b>|[序列化二叉树](https://github.com/washing1127/LeetCode/blob/main/Offer37/Offer37.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer37/Offer37.py)|
 |<b style="color: orange">剑指Offer38</b>|[字符串的排列](https://github.com/washing1127/LeetCode/blob/main/Offer38/Offer38.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer38/Offer38.py)|
 |<b style="color: orange">剑指Offer64</b>|[求1+2+…+n](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.py) [Java](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.java) [C++](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.cpp)|
+|<b style="color: green">面试题17.10</b>|[Find Majority Element LCCI](https://github.com/washing1127/LeetCode/blob/main/面试题17.10/面试题17.10.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/面试题17.10/面试题17.10.py)|
 |<b style="color: red">面试题17.21</b>|[Volume of Histogram LCCI](https://github.com/washing1127/LeetCode/blob/main/面试题17.21/面试题17.21.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/面试题17.21/面试题17.21.py)|
 

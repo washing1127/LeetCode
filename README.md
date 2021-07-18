@@ -205,6 +205,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">剑指Offer42</b>|[连续子数组的最大和](https://github.com/washing1127/LeetCode/blob/main/Offer42/Offer42.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer42/Offer42.py)|
 |<b style="color: orange">剑指Offer53</b>|[在排序数组中查找数字I](https://github.com/washing1127/LeetCode/blob/main/Offer53/Offer53.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer53/Offer53.py)|
 |<b style="color: orange">剑指Offer64</b>|[求1+2+…+n](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.py) [Java](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.java) [C++](https://github.com/washing1127/LeetCode/blob/main/Offer64/Offer64.cpp)|
+|<b style="color: orange">面试题10.02</b>|[Group Anagrams LCCI](https://github.com/washing1127/LeetCode/blob/main/面试题10.02/面试题10.02.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/面试题10.02/面试题10.02.py)|
 |<b style="color: green">面试题17.10</b>|[Find Majority Element LCCI](https://github.com/washing1127/LeetCode/blob/main/面试题17.10/面试题17.10.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/面试题17.10/面试题17.10.py)|
 |<b style="color: red">面试题17.21</b>|[Volume of Histogram LCCI](https://github.com/washing1127/LeetCode/blob/main/面试题17.21/面试题17.21.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/面试题17.21/面试题17.21.py)|
 

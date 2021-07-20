@@ -200,6 +200,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">1833</b>|[Frequency of the Most Frequent Element](https://github.com/washing1127/LeetCode/blob/main/1833/1833.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1833/1833.py)|
 |<b style="color: orange">1838</b>|[Maximum Ice Cream Bars](https://github.com/washing1127/LeetCode/blob/main/1838/1838.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1838/1838.py)|
 |<b style="color: orange">1846</b>|[Maximum Element After Decreasing and Rearranging](https://github.com/washing1127/LeetCode/blob/main/1846/1846.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1846/1846.py)|
+|<b style="color: orange">1877</b>|[Minimize Maximum Pair Sum in Array](https://github.com/washing1127/LeetCode/blob/main/1877/1877.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1877/1877.py)|
 |<b style="color: green">LCP07</b>|[传递信息](https://github.com/washing1127/LeetCode/blob/main/LCP07/LCP07.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/LCP07/LCP07.py)|
 |<b style="color: orange">剑指Offer15</b>|[二进制中1的个数](https://github.com/washing1127/LeetCode/blob/main/Offer15/Offer15.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer15/Offer15.py)|
 |<b style="color: red">剑指Offer37</b>|[序列化二叉树](https://github.com/washing1127/LeetCode/blob/main/Offer37/Offer37.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer37/Offer37.py)|

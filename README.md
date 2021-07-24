@@ -195,6 +195,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">1734</b>|[Decode XORed Permutation](https://github.com/washing1127/LeetCode/blob/main/1734/1734.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1734/1734.py)|
 |<b style="color: orange">1738</b>|[Find Kth Largest XOR Coordinate Value](https://github.com/washing1127/LeetCode/blob/main/1738/1738.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1738/1738.py)|
 |<b style="color: orange">1744</b>|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://github.com/washing1127/LeetCode/blob/main/1744/1744.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1744/1744.py)|
+|<b style="color: green">1763</b>|[Latest Time by Replacing Hidden Digits](https://github.com/washing1127/LeetCode/blob/main/1763/1763.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1763/1763.py)|
 |<b style="color: red">1787</b>|[Make the XOR of All Segments Equal to Zero](https://github.com/washing1127/LeetCode/blob/main/1787/1787.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1787/1787.py)|
 |<b style="color: orange">1818</b>|[Minimum Absolute Sum Difference](https://github.com/washing1127/LeetCode/blob/main/1818/1818.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1818/1818.py)|
 |<b style="color: orange">1833</b>|[Maximum Ice Cream Bars](https://github.com/washing1127/LeetCode/blob/main/1833/1833.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1833/1833.py)|

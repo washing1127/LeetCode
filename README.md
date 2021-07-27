@@ -128,6 +128,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0645</b>|[Set Mismatch](https://github.com/washing1127/LeetCode/blob/main/0645/0645.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0645/0645.py)|
 |<b style="color: red">0664</b>|[Strange Printer](https://github.com/washing1127/LeetCode/blob/main/0664/0664.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0664/0664.py)|
 |<b style="color: green">0665</b>|[Non-decreasing Array](https://github.com/washing1127/LeetCode/blob/main/0665/0665.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0665/0665.py)|
+|<b style="color: green">0671</b>|[Second Minimum Node Ia a Binary Tree](https://github.com/washing1127/LeetCode/blob/main/0671/0671.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0671/0671.py)|
 |<b style="color: green">0690</b>|[Employee Importance](https://github.com/washing1127/LeetCode/blob/main/0690/0690.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0690/0690.py)|
 |<b style="color: green">0697</b>|[Degree of an Array](https://github.com/washing1127/LeetCode/blob/main/0697/0697.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0697/0697.py)|
 |<b style="color: green">0703</b>|[Kth Largest Element in a Stream](https://github.com/washing1127/LeetCode/blob/main/0703/0703.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0703/0703.py)|

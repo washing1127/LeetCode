@@ -123,6 +123,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0566</b>|[Reshape the Matrix](https://github.com/washing1127/LeetCode/blob/main/0566/0566.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0566/0566.py)|
 |<b style="color: orange">0567</b>|[Permutation in String](https://github.com/washing1127/LeetCode/blob/main/0567/0567.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0567/0567.py)|
 |<b style="color: orange">0581</b>|[Shortest Unsorted Continuous Subarray](https://github.com/washing1127/LeetCode/blob/main/0581/0581.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0581/0581.py)|
+|<b style="color: orange">0611</b>|[Valid Triangle Number](https://github.com/washing1127/LeetCode/blob/main/0611/0611.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0611/0611.py)|
 |<b style="color: orange">0629</b>|[Top K Frequent Words](https://github.com/washing1127/LeetCode/blob/main/0629/0629.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0629/0629.py)|
 |<b style="color: orange">0633</b>|[Sum of Square Numbers](https://github.com/washing1127/LeetCode/blob/main/0633/0633.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0633/0633.py)|
 |<b style="color: green">0643</b>|[Maximum Average Subarray I](https://github.com/washing1127/LeetCode/blob/main/0643/0643.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0643/0643.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0643/0643.java)|

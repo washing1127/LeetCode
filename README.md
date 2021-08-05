@@ -145,6 +145,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0773</b>|[Sliding Puzzle](https://github.com/washing1127/LeetCode/blob/main/0773/0773.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0773/0773.py)|
 |<b style="color: orange">0781</b>|[Rabbits in Forest](https://github.com/washing1127/LeetCode/blob/main/0781/0781.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0781/0781.py)|
 |<b style="color: green">0783</b>|[Minimum Distance Between BST Nodes](https://github.com/washing1127/LeetCode/blob/main/0783/0783.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0783/0783.py)|
+|<b style="color: orange">0802</b>|[Find Eventual Safe States](https://github.com/washing1127/LeetCode/blob/main/0802/0802.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0802/0802.py)|
 |<b style="color: red">0810</b>|[Chalkboard XOR Game](https://github.com/washing1127/LeetCode/blob/main/0810/0810.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0810/0810.py)|
 |<b style="color: red">0815</b>|[Bus Routes](https://github.com/washing1127/LeetCode/blob/main/0815/0815.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0815/0815.py)|
 |<b style="color: green">0823</b>|[Flipping an Image](https://github.com/washing1127/LeetCode/blob/main/0823/0823.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0823/0823.py)|

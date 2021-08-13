@@ -81,6 +81,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0227</b>|[Basic Calculator II](https://github.com/washing1127/LeetCode/blob/main/0227/0227.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0227/0227.py)|
 |<b style="color: green">0231</b>|[Power of Two](https://github.com/washing1127/LeetCode/blob/main/0231/0231.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0231/0231.py)|
 |<b style="color: green">0232</b>|[Implement Queue using Stacks](https://github.com/washing1127/LeetCode/blob/main/0232/0232.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0232/0232.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0232/0232.java)|
+|<b style="color: red">0233</b>|[Number of Digit One](https://github.com/washing1127/LeetCode/blob/main/0233/0233.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0233/0233.py)|
 |<b style="color: green">0263</b>|[Ugly Number](https://github.com/washing1127/LeetCode/blob/main/0263/0263.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0263/0263.py)|
 |<b style="color: orange">0274</b>|[H-Index](https://github.com/washing1127/LeetCode/blob/main/0274/0274.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0274/0274.py)|
 |<b style="color: orange">0275</b>|[H-Index](https://github.com/washing1127/LeetCode/blob/main/0275/0275.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0275/0275.py)|

@@ -126,6 +126,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0525</b>|[Continuous Array](https://github.com/washing1127/LeetCode/blob/main/0525/0525.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0525/0525.py)|
 |<b style="color: orange">0526</b>|[Beautiful Arrangement](https://github.com/washing1127/LeetCode/blob/main/0526/0526.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0526/0526.py)|
 |<b style="color: green">0551</b>|[Student Attendence Record !](https://github.com/washing1127/LeetCode/blob/main/0551/0551.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0551/0551.py)|
+|<b style="color: red">0552</b>|[Student Ateendence Record II](https://github.com/washing1127/LeetCode/blob/main/0552/0552.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0552/0552.py)|
 |<b style="color: orange">0554</b>|[Brick Wall](https://github.com/washing1127/LeetCode/blob/main/0554/0554.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0554/0554.py)|
 |<b style="color: green">0561</b>|[Array Partition I](https://github.com/washing1127/LeetCode/blob/main/0561/0561.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0561/0561.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0561/0561.java)|
 |<b style="color: orange">0566</b>|[Reshape the Matrix](https://github.com/washing1127/LeetCode/blob/main/0566/0566.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0566/0566.py)|

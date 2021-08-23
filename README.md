@@ -214,6 +214,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">1583</b>|[Count Unhappy Friends](https://github.com/washing1127/LeetCode/blob/main/1583/1583.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1583/1583.py)|
 |<b style="color: orange">1600</b>|[Throne Inheritance](https://github.com/washing1127/LeetCode/blob/main/1600/1600.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1600/1600.py)|
 |<b style="color: green">1603</b>|[Design Parking System](https://github.com/washing1127/LeetCode/blob/main/1603/1603.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1603/1603.py) [Java](https://github.com/washing1127/LeetCode/blob/main/1603/1603.java)|
+|<b style="color: green">1646</b>|[Get Maximum in Generated Array](https://github.com/washing1127/LeetCode/blob/main/1646/1646.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1646/1646.py)|
 |<b style="color: red">1707</b>|[Maximum XOR With an Element From Array](https://github.com/washing1127/LeetCode/blob/main/1707/1707.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1707/1707.py)|
 |<b style="color: orange">1711</b>|[Count Good Meals](https://github.com/washing1127/LeetCode/blob/main/1711/1711.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1711/1711.py)|
 |<b style="color: red">1713</b>|[Minimum Operations to Make a Subsequence](https://github.com/washing1127/LeetCode/blob/main/1713/1713.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1713/1713.py)|

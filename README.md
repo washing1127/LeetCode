@@ -174,6 +174,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0872</b>|[Leaf-Similar Trees](https://github.com/washing1127/LeetCode/blob/main/0872/0872.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0872/0872.py)|
 |<b style="color: orange">0877</b>|[Stone Game](https://github.com/washing1127/LeetCode/blob/main/0877/0877.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0877/0877.py)|
 |<b style="color: red">0879</b>|[Profitable Schemes](https://github.com/washing1127/LeetCode/blob/main/0879/0879.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0879/0879.py)|
+|<b style="color: orange">0881</b>|[Boats to Save People](https://github.com/washing1127/LeetCode/blob/main/0881/0881.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0881/0881.py)|
 |<b style="color: green">0896</b>|[Monotonic Array](https://github.com/washing1127/LeetCode/blob/main/0896/0896.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0896/0896.py)|
 |<b style="color: green">0897</b>|[Increasing Order Search Tree](https://github.com/washing1127/LeetCode/blob/main/0897/0897.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0897/0897.py)|
 |<b style="color: orange">0903</b>|[Binary Subarrays With Sum](https://github.com/washing1127/LeetCode/blob/main/0903/0903.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0903/0903.py)|

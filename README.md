@@ -213,6 +213,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">1442</b>|[Count Triplets That Can Form Two Arrays of Equal XOR](https://github.com/washing1127/LeetCode/blob/main/1442/1442.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1442/1442.py)|
 |<b style="color: red">1449</b>|[Form Largest Integer With Digits That Add up to Target](https://github.com/washing1127/LeetCode/blob/main/1449/1449.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1449/1449.py)|
 |<b style="color: red">1473</b>|[Paint House III](https://github.com/washing1127/LeetCode/blob/main/1473/1473.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1473/1473.py)|
+|<b style="color: green">1480</b>|[Running Sum of 1d Array](https://github.com/washing1127/LeetCode/blob/main/1480/1480.txt)|[C++](https://github.com/washing1127/LeetCode/blob/main/1480/1480.cpp)|
 |<b style="color: orange">1482</b>|[Minimum Number of Days to Make m Bouquets](https://github.com/washing1127/LeetCode/blob/main/1482/1482.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1482/1482.py)|
 |<b style="color: green">1486</b>|[XOR Operation in an Array](https://github.com/washing1127/LeetCode/blob/main/1486/1486.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1486/1486.py)|
 |<b style="color: orange">1583</b>|[Count Unhappy Friends](https://github.com/washing1127/LeetCode/blob/main/1583/1583.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1583/1583.py)|

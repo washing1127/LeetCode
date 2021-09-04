@@ -243,6 +243,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">1877</b>|[Minimize Maximum Pair Sum in Array](https://github.com/washing1127/LeetCode/blob/main/1877/1877.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1877/1877.py)|
 |<b style="color: green">1893</b>|[Check if All the Integers in a Range Are Covered](https://github.com/washing1127/LeetCode/blob/main/1893/1893.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/1893/1893.py)|
 |<b style="color: green">LCP07</b>|[传递信息](https://github.com/washing1127/LeetCode/blob/main/LCP07/LCP07.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/LCP07/LCP07.py)|
+|<b style="color: green">剑指Offer10</b>|[I.斐波那契数列](https://github.com/washing1127/LeetCode/blob/main/Offer10/Offer10.txt)|[C++](https://github.com/washing1127/LeetCode/blob/main/Offer10/Offer10.cpp)|
 |<b style="color: orange">剑指Offer15</b>|[二进制中1的个数](https://github.com/washing1127/LeetCode/blob/main/Offer15/Offer15.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer15/Offer15.py)|
 |<b style="color: green">剑指Offer22</b>|[链表中倒数第k个节点](https://github.com/washing1127/LeetCode/blob/main/Offer22/Offer22.txt)|[C++](https://github.com/washing1127/LeetCode/blob/main/Offer22/Offer22.cpp)|
 |<b style="color: red">剑指Offer37</b>|[序列化二叉树](https://github.com/washing1127/LeetCode/blob/main/Offer37/Offer37.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Offer37/Offer37.py)|

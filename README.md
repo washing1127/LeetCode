@@ -117,6 +117,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0456</b>|[132 Pattern](https://github.com/washing1127/LeetCode/blob/main/0456/0456.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0456/0456.py)|
 |<b style="color: orange">0457</b>|[Circular Array Loop](https://github.com/washing1127/LeetCode/blob/main/0457/0457.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0457/0457.py)|
 |<b style="color: green">0461</b>|[Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/0461/0461.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0461/0461.py)|
+|<b style="color: orange">0470</b>|[Implement Rand10() Using Rand7()](https://github.com/washing1127/LeetCode/blob/main/0470/0470.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0470/0470.py)|
 |<b style="color: orange">0474</b>|[Ones and Zeroes](https://github.com/washing1127/LeetCode/blob/main/0474/0474.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0474/0474.py)|
 |<b style="color: orange">0477</b>|[Total Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/0477/0477.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0477/0477.py)|
 |<b style="color: red">0483</b>|[Smallest Good Base](https://github.com/washing1127/LeetCode/blob/main/0483/0483.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0483/0483.py)|

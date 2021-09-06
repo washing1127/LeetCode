@@ -151,6 +151,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0690</b>|[Employee Importance](https://github.com/washing1127/LeetCode/blob/main/0690/0690.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0690/0690.py)|
 |<b style="color: green">0697</b>|[Degree of an Array](https://github.com/washing1127/LeetCode/blob/main/0697/0697.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0697/0697.py)|
 |<b style="color: green">0703</b>|[Kth Largest Element in a Stream](https://github.com/washing1127/LeetCode/blob/main/0703/0703.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0703/0703.py)|
+|<b style="color: green">0704</b>|[Binary Search](https://github.com/washing1127/LeetCode/blob/main/0704/0704.txt)|[C++](https://github.com/washing1127/LeetCode/blob/main/0704/0704.cpp)|
 |<b style="color: green">0705</b>|[Design HashSet](https://github.com/washing1127/LeetCode/blob/main/0705/0705.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0705/0705.py)|
 |<b style="color: green">0706</b>|[Design HashMap](https://github.com/washing1127/LeetCode/blob/main/0706/0706.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0706/0706.py)|
 |<b style="color: red">0726</b>|[Number of Atoms](https://github.com/washing1127/LeetCode/blob/main/0726/0726.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0726/0726.py)|

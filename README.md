@@ -123,6 +123,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0483</b>|[Smallest Good Base](https://github.com/washing1127/LeetCode/blob/main/0483/0483.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0483/0483.py)|
 |<b style="color: green">0485</b>|[Max Consecutive Ones](https://github.com/washing1127/LeetCode/blob/main/0485/0485.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0485/0485.py)|
 |<b style="color: orange">0494</b>|[Target Sum](https://github.com/washing1127/LeetCode/blob/main/0494/0494.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0494/0494.py)|
+|<b style="color: red">0502</b>|[IPO](https://github.com/washing1127/LeetCode/blob/main/0502/0502.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0502/0502.py) [C++](https://github.com/washing1127/LeetCode/blob/main/0502/0502.cpp)|
 |<b style="color: orange">0503</b>|[Next Greater Element II](https://github.com/washing1127/LeetCode/blob/main/0503/0503.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0503/0503.py) [Java](https://github.com/washing1127/LeetCode/blob/main/0503/0503.java)|
 |<b style="color: green">0509</b>|[Fibonacci Number](https://github.com/washing1127/LeetCode/blob/main/0509/0509.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0509/0509.py)|
 |<b style="color: orange">0516</b>|[Longest Palindromic Subsequence](https://github.com/washing1127/LeetCode/blob/main/0516/0516.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0516/0516.py)|

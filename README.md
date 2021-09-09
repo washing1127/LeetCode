@@ -32,6 +32,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0065</b>|[Valid Number](https://github.com/washing1127/LeetCode/blob/main/0065/0065.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0065/0065.py)|
 |<b style="color: green">0066</b>|[Plus One](https://github.com/washing1127/LeetCode/blob/main/0066/0066.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0066/0066.py)|
 |<b style="color: green">0067</b>|[Add Binary](https://github.com/washing1127/LeetCode/blob/main/0067/0067.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0067/0067.py)|
+|<b style="color: red">0068</b>|[Text Justification](https://github.com/washing1127/LeetCode/blob/main/0068/0068.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0068/0068.py)|
 |<b style="color: green">0069</b>|[Sqrt(x)](https://github.com/washing1127/LeetCode/blob/main/0069/0069.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0069/0069.py)|
 |<b style="color: green">0070</b>|[Climbing Stairs](https://github.com/washing1127/LeetCode/blob/main/0070/0070.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0070/0070.py)|
 |<b style="color: orange">0073</b>|[Set Matrix Zeroes](https://github.com/washing1127/LeetCode/blob/main/0073/0073.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/0073/0073.py)|

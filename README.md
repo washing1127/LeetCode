@@ -133,6 +133,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0470</b>|[Implement Rand10() Using Rand7()](https://github.com/washing1127/LeetCode/blob/main/Solutions/0470/0470.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0470/0470.py)|
 |<b style="color: orange">0474</b>|[Ones and Zeroes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0474/0474.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0474/0474.py)|
 |<b style="color: orange">0477</b>|[Total Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/Solutions/0477/0477.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0477/0477.py)|
+|<b style="color: green">0482</b>|[License Key Formation](https://github.com/washing1127/LeetCode/blob/main/Solutions/0482/0482.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0482/0482.py)|
 |<b style="color: red">0483</b>|[Smallest Good Base](https://github.com/washing1127/LeetCode/blob/main/Solutions/0483/0483.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0483/0483.py)|
 |<b style="color: green">0485</b>|[Max Consecutive Ones](https://github.com/washing1127/LeetCode/blob/main/Solutions/0485/0485.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0485/0485.py)|
 |<b style="color: orange">0494</b>|[Target Sum](https://github.com/washing1127/LeetCode/blob/main/Solutions/0494/0494.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0494/0494.py)|

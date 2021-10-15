@@ -6,22 +6,20 @@
 
 class Solution:
     def countAndSay(self, n: int) -> str:
-        if n == 1: return '1'
-
-        def count(num):
-            klist = []
-            for i in str(num):
-                if not klist or i not in klist[-1].keys():
-                    klist.append({i: 1})
+        def desc(s0):
+            s1 = ''
+            c = s0[0]
+            num = 1
+            for i in s0[1:]:
+                if c == i:
+                    num += 1
                 else:
-                    klist[-1][i] += 1
-            s = ''
-            for i in klist:
-                for k, v in i.items():
-                    s += f"{v}{k}"
-            return int(s)
-
-        num = 1
-        for i in range(n - 1):
-            num = count(num)
-        return str(num)
+                    s1 += str(num)+c
+                    num = 1
+                    c = i
+            s1 += str(num)+c
+            return s1
+        s = '1'
+        for i in range(1,n):
+            s = desc(s)
+        return s

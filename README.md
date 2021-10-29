@@ -113,6 +113,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0313</b>|[Super Ugly Number](https://github.com/washing1127/LeetCode/blob/main/Solutions/0313/0313.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0313/0313.py)|
 |<b style="color: green">0326</b>|[Power of Three](https://github.com/washing1127/LeetCode/blob/main/Solutions/0326/0326.txt)|[C++](https://github.com/washing1127/LeetCode/blob/main/Solutions/0326/0326.cpp)|
 |<b style="color: orange">0331</b>|[Verify Preorder Serialization of a Binary Tree](https://github.com/washing1127/LeetCode/blob/main/Solutions/0331/0331.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0331/0331.py)|
+|<b style="color: red">0335</b>|[Self Crossing](https://github.com/washing1127/LeetCode/blob/main/Solutions/0335/0335.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0335/0335.py)|
 |<b style="color: orange">0338</b>|[Counting Bits](https://github.com/washing1127/LeetCode/blob/main/Solutions/0338/0338.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0338/0338.py)|
 |<b style="color: orange">0341</b>|[Flatten Nested List Iterator](https://github.com/washing1127/LeetCode/blob/main/Solutions/0341/0341.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0341/0341.py)|
 |<b style="color: green">0342</b>|[Power of Four](https://github.com/washing1127/LeetCode/blob/main/Solutions/0342/0342.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0342/0342.py)|

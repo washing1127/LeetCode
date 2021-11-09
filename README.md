@@ -159,6 +159,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0482</b>|[License Key Formation](https://github.com/washing1127/LeetCode/blob/main/Solutions/0482/0482.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0482/0482.py)|
 |<b style="color: red">0483</b>|[Smallest Good Base](https://github.com/washing1127/LeetCode/blob/main/Solutions/0483/0483.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0483/0483.py)|
 |<b style="color: green">0485</b>|[Max Consecutive Ones](https://github.com/washing1127/LeetCode/blob/main/Solutions/0485/0485.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0485/0485.py)|
+|<b style="color: red">0488</b>|[Zuma Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0488/0488.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0488/0488.py)|
 |<b style="color: green">0492</b>|[Construct the Rectangle](https://github.com/washing1127/LeetCode/blob/main/Solutions/0492/0492.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0492/0492.py)|
 |<b style="color: orange">0494</b>|[Target Sum](https://github.com/washing1127/LeetCode/blob/main/Solutions/0494/0494.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0494/0494.py)|
 |<b style="color: green">0496</b>|[Next Greater Element I](https://github.com/washing1127/LeetCode/blob/main/Solutions/0496/0496.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0496/0496.py)|

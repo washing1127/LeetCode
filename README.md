@@ -234,6 +234,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0726</b>|[Number of Atoms](https://github.com/washing1127/LeetCode/blob/main/Solutions/0726/0726.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0726/0726.py)|
 |<b style="color: orange">0740</b>|[Delete and Earn](https://github.com/washing1127/LeetCode/blob/main/Solutions/0740/0740.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0740/0740.py)|
 |<b style="color: orange">0743</b>|[Network Delay Time](https://github.com/washing1127/LeetCode/blob/main/Solutions/0743/0743.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0743/0743.py)|
+|<b style="color: green">0748</b>|[Shortest Completing Word](https://github.com/washing1127/LeetCode/blob/main/Solutions/0748/0748.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0748/0748.py)|
 |<b style="color: orange">0752</b>|[Open the Lock](https://github.com/washing1127/LeetCode/blob/main/Solutions/0752/0752.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0752/0752.py)|
 |<b style="color: red">0765</b>|[Couples Holding Hands](https://github.com/washing1127/LeetCode/blob/main/Solutions/0765/0765.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0765/0765.py)|
 |<b style="color: red">0766</b>|[Toeplitz Matrix](https://github.com/washing1127/LeetCode/blob/main/Solutions/0766/0766.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0766/0766.py)|

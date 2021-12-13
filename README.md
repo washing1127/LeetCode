@@ -248,6 +248,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0794</b>|[Valid Tic-Tac State](https://github.com/washing1127/LeetCode/blob/main/Solutions/0794/0794.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0794/0794.py)|
 |<b style="color: orange">0797</b>|[All Paths From Source to Target](https://github.com/washing1127/LeetCode/blob/main/Solutions/0797/0797.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0797/0797.py)|
 |<b style="color: orange">0802</b>|[Find Eventual Safe States](https://github.com/washing1127/LeetCode/blob/main/Solutions/0802/0802.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0802/0802.py)|
+|<b style="color: orange">0807</b>|[Max Increase to Keep City Skyline](https://github.com/washing1127/LeetCode/blob/main/Solutions/0807/0807.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0807/0807.py)|
 |<b style="color: red">0810</b>|[Chalkboard XOR Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.py)|
 |<b style="color: red">0815</b>|[Bus Routes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.py)|
 |<b style="color: green">0823</b>|[Flipping an Image](https://github.com/washing1127/LeetCode/blob/main/Solutions/0823/0823.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0823/0823.py)|

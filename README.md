@@ -167,6 +167,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0461</b>|[Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/Solutions/0461/0461.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0461/0461.py)|
 |<b style="color: orange">0470</b>|[Implement Rand10() Using Rand7()](https://github.com/washing1127/LeetCode/blob/main/Solutions/0470/0470.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0470/0470.py)|
 |<b style="color: orange">0474</b>|[Ones and Zeroes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0474/0474.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0474/0474.py)|
+|<b style="color: orange">0475</b>|[Heaters](https://github.com/washing1127/LeetCode/blob/main/Solutions/0475/0475.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0475/0475.py)|
 |<b style="color: green">0476</b>|[Number Complement](https://github.com/washing1127/LeetCode/blob/main/Solutions/0476/0476.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0476/0476.py)|
 |<b style="color: orange">0477</b>|[Total Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/Solutions/0477/0477.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0477/0477.py)|
 |<b style="color: green">0482</b>|[License Key Formation](https://github.com/washing1127/LeetCode/blob/main/Solutions/0482/0482.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0482/0482.py)|

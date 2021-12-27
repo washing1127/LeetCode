@@ -256,6 +256,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0810</b>|[Chalkboard XOR Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.py)|
 |<b style="color: red">0815</b>|[Bus Routes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.py)|
 |<b style="color: green">0823</b>|[Flipping an Image](https://github.com/washing1127/LeetCode/blob/main/Solutions/0823/0823.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0823/0823.py)|
+|<b style="color: orange">0825</b>|[Friends Of Appropriate Ages](https://github.com/washing1127/LeetCode/blob/main/Solutions/0825/0825.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0825/0825.py)|
 |<b style="color: green">0830</b>|[Positions of Large Groups](https://github.com/washing1127/LeetCode/blob/main/Solutions/0830/0830.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0830/0830.py)|
 |<b style="color: orange">0841</b>|[Keys and Rooms](https://github.com/washing1127/LeetCode/blob/main/Solutions/0841/0841.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0841/0841.py)|
 |<b style="color: red">0847</b>|[Shortest Path Visiting All Nodes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0847/0847.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0847/0847.py)|

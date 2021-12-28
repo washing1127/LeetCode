@@ -166,6 +166,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0458</b>|[Poor Pigs](https://github.com/washing1127/LeetCode/blob/main/Solutions/0458/0458.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0458/0458.py)|
 |<b style="color: green">0461</b>|[Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/Solutions/0461/0461.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0461/0461.py)|
 |<b style="color: orange">0470</b>|[Implement Rand10() Using Rand7()](https://github.com/washing1127/LeetCode/blob/main/Solutions/0470/0470.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0470/0470.py)|
+|<b style="color: red">0472</b>|[Concatenated Words](https://github.com/washing1127/LeetCode/blob/main/Solutions/0472/0472.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0472/0472.py)|
 |<b style="color: orange">0474</b>|[Ones and Zeroes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0474/0474.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0474/0474.py)|
 |<b style="color: orange">0475</b>|[Heaters](https://github.com/washing1127/LeetCode/blob/main/Solutions/0475/0475.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0475/0475.py)|
 |<b style="color: green">0476</b>|[Number Complement](https://github.com/washing1127/LeetCode/blob/main/Solutions/0476/0476.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0476/0476.py)|

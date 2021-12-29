@@ -1,5 +1,5 @@
-[200~class Solution:
-            def chalkReplacer(self, chalk: List[int], k: int) -> int:
+class Solution:
+    def chalkReplacer(self, chalk: List[int], k: int) -> int:
         n = len(chalk)
         s = sum(chalk)
         k = k % s

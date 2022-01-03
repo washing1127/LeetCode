@@ -135,6 +135,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0377</b>|[Combination Sum IV](https://github.com/washing1127/LeetCode/blob/main/Solutions/0377/0377.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0377/0377.py)|
 |<b style="color: green">0383</b>|[Ransom Note](https://github.com/washing1127/LeetCode/blob/main/Solutions/0383/0383.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0383/0383.c)|
 |<b style="color: orange">0384</b>|[Shuffle an Array](https://github.com/washing1127/LeetCode/blob/main/Solutions/0384/0384.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0384/0384.py)|
+|<b style="color: orange">0390</b>|[Elimination Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0390/0390.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0390/0390.py)|
 |<b style="color: red">0391</b>|[Perfect Rectangle](https://github.com/washing1127/LeetCode/blob/main/Solutions/0391/0391.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0391/0391.py)|
 |<b style="color: orange">0395</b>|[Longest Substring with At Least K Repeating Characters](https://github.com/washing1127/LeetCode/blob/main/Solutions/0395/0395.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0395/0395.py)|
 |<b style="color: orange">0397</b>|[Integer Replacement](https://github.com/washing1127/LeetCode/blob/main/Solutions/0397/0397.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0397/0397.py)|

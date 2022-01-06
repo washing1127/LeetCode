@@ -37,6 +37,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0068</b>|[Text Justification](https://github.com/washing1127/LeetCode/blob/main/Solutions/0068/0068.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0068/0068.py)|
 |<b style="color: green">0069</b>|[Sqrt(x)](https://github.com/washing1127/LeetCode/blob/main/Solutions/0069/0069.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0069/0069.py)|
 |<b style="color: green">0070</b>|[Climbing Stairs](https://github.com/washing1127/LeetCode/blob/main/Solutions/0070/0070.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0070/0070.py)|
+|<b style="color: orange">0071</b>|[Simplify Path](https://github.com/washing1127/LeetCode/blob/main/Solutions/0071/0071.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0071/0071.py)|
 |<b style="color: orange">0073</b>|[Set Matrix Zeroes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0073/0073.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0073/0073.py)|
 |<b style="color: orange">0074</b>|[Search a 2D Matrix](https://github.com/washing1127/LeetCode/blob/main/Solutions/0074/0074.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0074/0074.py)|
 |<b style="color: orange">0080</b>|[Remove Duplicates from Sorted Array II](https://github.com/washing1127/LeetCode/blob/main/Solutions/0080/0080.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0080/0080.py)|

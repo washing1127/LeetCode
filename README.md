@@ -138,6 +138,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0374</b>|[Guess Number Higher or Lower](https://github.com/washing1127/LeetCode/blob/main/Solutions/0374/0374.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0374/0374.py)|
 |<b style="color: orange">0375</b>|[Guess Number Higher or Lower II](https://github.com/washing1127/LeetCode/blob/main/Solutions/0375/0375.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0375/0375.py)|
 |<b style="color: orange">0377</b>|[Combination Sum IV](https://github.com/washing1127/LeetCode/blob/main/Solutions/0377/0377.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0377/0377.py)|
+|<b style="color: orange">0382</b>|[Linked List Random Node](https://github.com/washing1127/LeetCode/blob/main/Solutions/0382/0382.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0382/0382.py)|
 |<b style="color: green">0383</b>|[Ransom Note](https://github.com/washing1127/LeetCode/blob/main/Solutions/0383/0383.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0383/0383.c)|
 |<b style="color: orange">0384</b>|[Shuffle an Array](https://github.com/washing1127/LeetCode/blob/main/Solutions/0384/0384.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0384/0384.py)|
 |<b style="color: orange">0390</b>|[Elimination Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0390/0390.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0390/0390.py)|

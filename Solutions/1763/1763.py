@@ -1,33 +1,32 @@
 # -*- coding:utf-8 -*-
 # Author: washing
-# DateTime: 2021/7/24 23:03
+# DateTime: 2022/2/1 10:03
 # File: 1763.py
-# Desc: 
-class Solution:
-    def maximumTime(self, time: str) -> str:
-        ret = ""
-        if time[0] == "?":
-            if time[1] in "456789":
-                ret += "1"
-                ret += time[1]
-            else:
-                ret += "2"
-                if time[1] == "?":
-                    ret += "3"
-                else: ret += time[1]
-        elif time[0] == "2":
-            if time[1] == "?":
-                ret += "23"
-            else:
-                ret += time[:2]
-        else:
-            ret += time[0]
-            if time[1] == "?": ret += "9"
-            else: ret += time[1]
-        ret += ":"
-        if time[3] == "?": ret += "5"
-        else: ret += time[3]
-        if time[4] == "?": ret += "9"
-        else: ret += time[4]
+# Desc: CV
 
-        return ret 
+class Solution:
+    def longestNiceSubstring(self, s: str) -> str:
+        maxPos, maxLen = 0, 0
+        def dfs(start, end):
+            nonlocal maxPos, maxLen
+            if start >= end:
+                return
+            lower, upper = 0, 0
+            for i in range(start, end + 1):
+                if s[i].islower():
+                    lower|= 1 << (ord(s[i]) - ord('a'))
+                else:
+                    upper|= 1 << (ord(s[i]) - ord('A'))
+            if lower == upper:
+                if end - start + 1 > maxLen:
+                    maxPos, maxLen = start, end - start + 1
+                return
+            pos, valid = start, lower & upper
+            while pos <= end:
+                start = pos
+                while pos <= end and valid & (1 << (ord(s[pos].lower()) - ord('a'))):
+                    pos += 1
+                dfs(start, pos - 1)
+                pos += 1
+        dfs(0, len(s) - 1)
+        return s[maxPos : maxPos + maxLen]

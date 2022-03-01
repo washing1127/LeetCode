@@ -6,20 +6,12 @@
 
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        if len(s) <= 2 or numRows <= 1: return s
-        step = 1
+        if numRows == 1: return s
+        l = [''] * numRows
         idx = 0
-        dic = {}
-        ret = ''
-        for i in range(numRows):
-            dic[i] = ''
+        fx = -1
         for i in s:
-            dic[idx] += i
-            idx += step
-
-            if idx == 0 or idx == numRows - 1:
-                step *= -1
-        for i in range(numRows):
-            ret += dic[i]
-
-        return ret
+            l[idx] += i
+            if idx == 0 or idx == numRows-1: fx *= -1
+            idx += fx
+        return ''.join(l)

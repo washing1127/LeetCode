@@ -99,6 +99,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0233</b>|[Number of Digit One](https://github.com/washing1127/LeetCode/blob/main/Solutions/0233/0233.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0233/0233.py)|
 |<b style="color: green">0237</b>|[Delete Node in a Linked List](https://github.com/washing1127/LeetCode/blob/main/Solutions/0237/0237.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0237/0237.py)|
 |<b style="color: orange">0240</b>|[Search a 2D Matrix II](https://github.com/washing1127/LeetCode/blob/main/Solutions/0240/0240.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0240/0240.py)|
+|<b style="color: green">0258</b>|[Add Digits](https://github.com/washing1127/LeetCode/blob/main/Solutions/0258/0258.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0258/0258.py)|
 |<b style="color: orange">0260</b>|[Single Number III](https://github.com/washing1127/LeetCode/blob/main/Solutions/0260/0260.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0260/0260.py)|
 |<b style="color: green">0263</b>|[Ugly Number](https://github.com/washing1127/LeetCode/blob/main/Solutions/0263/0263.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0263/0263.py)|
 |<b style="color: green">0268</b>|[Missing Number](https://github.com/washing1127/LeetCode/blob/main/Solutions/0268/0268.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0268/0268.py)|

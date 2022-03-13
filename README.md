@@ -145,6 +145,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0384</b>|[Shuffle an Array](https://github.com/washing1127/LeetCode/blob/main/Solutions/0384/0384.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0384/0384.py)|
 |<b style="color: orange">0390</b>|[Elimination Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0390/0390.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0390/0390.py)|
 |<b style="color: red">0391</b>|[Perfect Rectangle](https://github.com/washing1127/LeetCode/blob/main/Solutions/0391/0391.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0391/0391.py)|
+|<b style="color: orange">0393</b>|[UTF-8 Validation](https://github.com/washing1127/LeetCode/blob/main/Solutions/0393/0393.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0393/0393.py)|
 |<b style="color: orange">0395</b>|[Longest Substring with At Least K Repeating Characters](https://github.com/washing1127/LeetCode/blob/main/Solutions/0395/0395.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0395/0395.py)|
 |<b style="color: orange">0397</b>|[Integer Replacement](https://github.com/washing1127/LeetCode/blob/main/Solutions/0397/0397.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0397/0397.py)|
 |<b style="color: orange">0400</b>|[Nth Digit](https://github.com/washing1127/LeetCode/blob/main/Solutions/0400/0400.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0400/0400.py)|

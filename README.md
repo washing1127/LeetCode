@@ -283,6 +283,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0765</b>|[Couples Holding Hands](https://github.com/washing1127/LeetCode/blob/main/Solutions/0765/0765.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0765/0765.py)|
 |<b style="color: red">0766</b>|[Toeplitz Matrix](https://github.com/washing1127/LeetCode/blob/main/Solutions/0766/0766.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0766/0766.py)|
 |<b style="color: red">0773</b>|[Sliding Puzzle](https://github.com/washing1127/LeetCode/blob/main/Solutions/0773/0773.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0773/0773.py)|
+|<b style="color: red">0780</b>|[Reaching Points](https://github.com/washing1127/LeetCode/blob/main/Solutions/0780/0780.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0780/0780.py)|
 |<b style="color: orange">0781</b>|[Rabbits in Forest](https://github.com/washing1127/LeetCode/blob/main/Solutions/0781/0781.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0781/0781.py)|
 |<b style="color: green">0783</b>|[Minimum Distance Between BST Nodes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0783/0783.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0783/0783.py)|
 |<b style="color: red">0786</b>|[K-th Smallest Prime Fraction](https://github.com/washing1127/LeetCode/blob/main/Solutions/0786/0786.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0786/0786.py)|

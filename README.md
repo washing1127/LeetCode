@@ -148,6 +148,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0382</b>|[Linked List Random Node](https://github.com/washing1127/LeetCode/blob/main/Solutions/0382/0382.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0382/0382.py)|
 |<b style="color: green">0383</b>|[Ransom Note](https://github.com/washing1127/LeetCode/blob/main/Solutions/0383/0383.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0383/0383.c)|
 |<b style="color: orange">0384</b>|[Shuffle an Array](https://github.com/washing1127/LeetCode/blob/main/Solutions/0384/0384.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0384/0384.py)|
+|<b style="color: orange">0385</b>|[Mini Parser](https://github.com/washing1127/LeetCode/blob/main/Solutions/0385/0385.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0385/0385.py)|
 |<b style="color: orange">0390</b>|[Elimination Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0390/0390.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0390/0390.py)|
 |<b style="color: red">0391</b>|[Perfect Rectangle](https://github.com/washing1127/LeetCode/blob/main/Solutions/0391/0391.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0391/0391.py)|
 |<b style="color: orange">0393</b>|[UTF-8 Validation](https://github.com/washing1127/LeetCode/blob/main/Solutions/0393/0393.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0393/0393.py)|

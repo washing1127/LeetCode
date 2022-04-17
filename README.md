@@ -190,6 +190,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0475</b>|[Heaters](https://github.com/washing1127/LeetCode/blob/main/Solutions/0475/0475.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0475/0475.py)|
 |<b style="color: green">0476</b>|[Number Complement](https://github.com/washing1127/LeetCode/blob/main/Solutions/0476/0476.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0476/0476.py)|
 |<b style="color: orange">0477</b>|[Total Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/Solutions/0477/0477.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0477/0477.py)|
+|<b style="color: red">0479</b>|[Largest Palindrome Product](https://github.com/washing1127/LeetCode/blob/main/Solutions/0479/0479.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0479/0479.c)|
 |<b style="color: green">0482</b>|[License Key Formation](https://github.com/washing1127/LeetCode/blob/main/Solutions/0482/0482.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0482/0482.py)|
 |<b style="color: red">0483</b>|[Smallest Good Base](https://github.com/washing1127/LeetCode/blob/main/Solutions/0483/0483.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0483/0483.py)|
 |<b style="color: green">0485</b>|[Max Consecutive Ones](https://github.com/washing1127/LeetCode/blob/main/Solutions/0485/0485.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0485/0485.py)|
@@ -302,7 +303,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0807</b>|[Max Increase to Keep City Skyline](https://github.com/washing1127/LeetCode/blob/main/Solutions/0807/0807.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0807/0807.py)|
 |<b style="color: red">0810</b>|[Chalkboard XOR Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.py)|
 |<b style="color: red">0815</b>|[Bus Routes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.py)|
-|<b style="color: red">0819</b>|[Most Common Word](https://github.com/washing1127/LeetCode/blob/main/Solutions/0819/0819.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0819/0819.c)|
+|<b style="color: green">0819</b>|[Most Common Word](https://github.com/washing1127/LeetCode/blob/main/Solutions/0819/0819.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0819/0819.c)|
 |<b style="color: green">0823</b>|[Flipping an Image](https://github.com/washing1127/LeetCode/blob/main/Solutions/0823/0823.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0823/0823.py)|
 |<b style="color: orange">0825</b>|[Friends Of Appropriate Ages](https://github.com/washing1127/LeetCode/blob/main/Solutions/0825/0825.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0825/0825.py)|
 |<b style="color: green">0830</b>|[Positions of Large Groups](https://github.com/washing1127/LeetCode/blob/main/Solutions/0830/0830.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0830/0830.py)|

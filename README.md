@@ -334,6 +334,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0896</b>|[Monotonic Array](https://github.com/washing1127/LeetCode/blob/main/Solutions/0896/0896.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0896/0896.py)|
 |<b style="color: green">0897</b>|[Increasing Order Search Tree](https://github.com/washing1127/LeetCode/blob/main/Solutions/0897/0897.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0897/0897.py)|
 |<b style="color: orange">0903</b>|[Binary Subarrays With Sum](https://github.com/washing1127/LeetCode/blob/main/Solutions/0903/0903.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0903/0903.py)|
+|<b style="color: green">0905</b>|[Sort Array By Parity](https://github.com/washing1127/LeetCode/blob/main/Solutions/0905/0905.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0905/0905.c)|
 |<b style="color: orange">0909</b>|[Snakes and ladders](https://github.com/washing1127/LeetCode/blob/main/Solutions/0909/0909.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0909/0909.py)|
 |<b style="color: orange">0911</b>|[Online Election](https://github.com/washing1127/LeetCode/blob/main/Solutions/0911/0911.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0911/0911.py)|
 |<b style="color: red">0913</b>|[Cat and Mouse](https://github.com/washing1127/LeetCode/blob/main/Solutions/0913/0913.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0913/0913.py)|

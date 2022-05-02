@@ -342,6 +342,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0911</b>|[Online Election](https://github.com/washing1127/LeetCode/blob/main/Solutions/0911/0911.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0911/0911.py)|
 |<b style="color: red">0913</b>|[Cat and Mouse](https://github.com/washing1127/LeetCode/blob/main/Solutions/0913/0913.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0913/0913.py)|
 |<b style="color: green">0917</b>|[Reverse Only Letters](https://github.com/washing1127/LeetCode/blob/main/Solutions/0917/0917.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0917/0917.py)|
+|<b style="color: green">0937</b>|[Record Data in Log Files](https://github.com/washing1127/LeetCode/blob/main/Solutions/0937/0937.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0937/0937.c)|
 |<b style="color: orange">0938</b>|[Range Sum of BST](https://github.com/washing1127/LeetCode/blob/main/Solutions/0938/0938.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0938/0938.py)|
 |<b style="color: orange">0954</b>|[Array of Doubled Pairs](https://github.com/washing1127/LeetCode/blob/main/Solutions/0954/0954.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0954/0954.py)|
 |<b style="color: orange">0969</b>|[Pancake Sorting](https://github.com/washing1127/LeetCode/blob/main/Solutions/0969/0969.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0969/0969.py)|
@@ -487,4 +488,3 @@ The solutions of LeetCode questions.
 |<b style="color: green">面试题17.10</b>|[Find Majority Element LCCI](https://github.com/washing1127/LeetCode/blob/main/Solutions/面试题17.10/面试题17.10.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/面试题17.10/面试题17.10.py)|
 |<b style="color: green">面试题17.14</b>|[Smallest K LCCI](https://github.com/washing1127/LeetCode/blob/main/Solutions/面试题17.14/面试题17.14.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/面试题17.14/面试题17.14.py) [C++](https://github.com/washing1127/LeetCode/blob/main/Solutions/面试题17.14/面试题17.14.cpp)|
 |<b style="color: red">面试题17.21</b>|[Volume of Histogram LCCI](https://github.com/washing1127/LeetCode/blob/main/Solutions/面试题17.21/面试题17.21.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/面试题17.21/面试题17.21.py)|
-a

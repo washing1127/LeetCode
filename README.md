@@ -378,6 +378,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">1006</b>|[Clumsy Factorial](https://github.com/washing1127/LeetCode/blob/main/Solutions/1006/1006.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/1006/1006.py)|
 |<b style="color: orange">1011</b>|[Capacity To Ship Packages Within D Days](https://github.com/washing1127/LeetCode/blob/main/Solutions/1011/1011.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/1011/1011.py)|
 |<b style="color: orange">1020</b>|[Number of Enclaves](https://github.com/washing1127/LeetCode/blob/main/Solutions/1020/1020.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/1020/1020.py)|
+|<b style="color: green">1021</b>|[Remove Outermost Parentheses](https://github.com/washing1127/LeetCode/blob/main/Solutions/1021/1021.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/1021/1021.py)|
 |<b style="color: orange">1034</b>|[Coloring A Border](https://github.com/washing1127/LeetCode/blob/main/Solutions/1034/1034.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/1034/1034.py)|
 |<b style="color: orange">1035</b>|[Uncrossed Lines](https://github.com/washing1127/LeetCode/blob/main/Solutions/1035/1035.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/1035/1035.py)|
 |<b style="color: red">1036</b>|[Escape a Large Maze](https://github.com/washing1127/LeetCode/blob/main/Solutions/1036/1036.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/1036/1036.py)|

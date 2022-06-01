@@ -200,6 +200,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0468</b>|[Validate IP Address](https://github.com/washing1127/LeetCode/blob/main/Solutions/0468/0468.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0468/0468.py)|
 |<b style="color: orange">0470</b>|[Implement Rand10() Using Rand7()](https://github.com/washing1127/LeetCode/blob/main/Solutions/0470/0470.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0470/0470.py)|
 |<b style="color: red">0472</b>|[Concatenated Words](https://github.com/washing1127/LeetCode/blob/main/Solutions/0472/0472.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0472/0472.py)|
+|<b style="color: orange">0473</b>|[Matchsticks to Square](https://github.com/washing1127/LeetCode/blob/main/Solutions/0473/0473.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0473/0473.py)|
 |<b style="color: orange">0474</b>|[Ones and Zeroes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0474/0474.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0474/0474.py)|
 |<b style="color: orange">0475</b>|[Heaters](https://github.com/washing1127/LeetCode/blob/main/Solutions/0475/0475.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0475/0475.py)|
 |<b style="color: green">0476</b>|[Number Complement](https://github.com/washing1127/LeetCode/blob/main/Solutions/0476/0476.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0476/0476.py)|

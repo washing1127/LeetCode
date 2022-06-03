@@ -332,6 +332,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0823</b>|[Flipping an Image](https://github.com/washing1127/LeetCode/blob/main/Solutions/0823/0823.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0823/0823.py)|
 |<b style="color: orange">0824</b>|[Goat Latin](https://github.com/washing1127/LeetCode/blob/main/Solutions/0824/0824.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0824/0824.c)|
 |<b style="color: orange">0825</b>|[Friends Of Appropriate Ages](https://github.com/washing1127/LeetCode/blob/main/Solutions/0825/0825.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0825/0825.py)|
+|<b style="color: red">0829</b>|[Consecutive Number Sum](https://github.com/washing1127/LeetCode/blob/main/Solutions/0829/0829.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0829/0829.py)|
 |<b style="color: green">0830</b>|[Positions of Large Groups](https://github.com/washing1127/LeetCode/blob/main/Solutions/0830/0830.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0830/0830.py)|
 |<b style="color: orange">0838</b>|[Push Dominoes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0838/0838.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0838/0838.py)|
 |<b style="color: orange">0841</b>|[Keys and Rooms](https://github.com/washing1127/LeetCode/blob/main/Solutions/0841/0841.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0841/0841.py)|

@@ -206,6 +206,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0475</b>|[Heaters](https://github.com/washing1127/LeetCode/blob/main/Solutions/0475/0475.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0475/0475.py)|
 |<b style="color: green">0476</b>|[Number Complement](https://github.com/washing1127/LeetCode/blob/main/Solutions/0476/0476.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0476/0476.py)|
 |<b style="color: orange">0477</b>|[Total Hamming Distance](https://github.com/washing1127/LeetCode/blob/main/Solutions/0477/0477.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0477/0477.py)|
+|<b style="color: orange">0478</b>|[Generate Random Point in a Circle](https://github.com/washing1127/LeetCode/blob/main/Solutions/0478/0478.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0478/0478.py)|
 |<b style="color: red">0479</b>|[Largest Palindrome Product](https://github.com/washing1127/LeetCode/blob/main/Solutions/0479/0479.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0479/0479.c)|
 |<b style="color: green">0482</b>|[License Key Formation](https://github.com/washing1127/LeetCode/blob/main/Solutions/0482/0482.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0482/0482.py)|
 |<b style="color: red">0483</b>|[Smallest Good Base](https://github.com/washing1127/LeetCode/blob/main/Solutions/0483/0483.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0483/0483.py)|

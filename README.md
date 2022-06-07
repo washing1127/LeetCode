@@ -347,6 +347,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0868</b>|[Binary Gap](https://github.com/washing1127/LeetCode/blob/main/Solutions/0868/0868.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0868/0868.c)|
 |<b style="color: orange">0869</b>|[Recordered Power of 2](https://github.com/washing1127/LeetCode/blob/main/Solutions/0869/0869.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0869/0869.py)|
 |<b style="color: green">0872</b>|[Leaf-Similar Trees](https://github.com/washing1127/LeetCode/blob/main/Solutions/0872/0872.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0872/0872.py)|
+|<b style="color: orange">0875</b>|[Koko Eating Bananas](https://github.com/washing1127/LeetCode/blob/main/Solutions/0875/0875.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0875/0875.py)|
 |<b style="color: orange">0877</b>|[Stone Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0877/0877.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0877/0877.py)|
 |<b style="color: red">0879</b>|[Profitable Schemes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0879/0879.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0879/0879.py)|
 |<b style="color: orange">0881</b>|[Boats to Save People](https://github.com/washing1127/LeetCode/blob/main/Solutions/0881/0881.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0881/0881.py)|

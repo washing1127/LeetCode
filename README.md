@@ -364,6 +364,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0911</b>|[Online Election](https://github.com/washing1127/LeetCode/blob/main/Solutions/0911/0911.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0911/0911.py)|
 |<b style="color: red">0913</b>|[Cat and Mouse](https://github.com/washing1127/LeetCode/blob/main/Solutions/0913/0913.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0913/0913.py)|
 |<b style="color: green">0917</b>|[Reverse Only Letters](https://github.com/washing1127/LeetCode/blob/main/Solutions/0917/0917.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0917/0917.py)|
+|<b style="color: orange">0926</b>|[Flip String to Monotone Increasing](https://github.com/washing1127/LeetCode/blob/main/Solutions/0926/0926.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0926/0926.py)|
 |<b style="color: green">0929</b>|[Unique Email Addresses](https://github.com/washing1127/LeetCode/blob/main/Solutions/0929/0929.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0929/0929.py)|
 |<b style="color: green">0933</b>|[Number of Recent Calls](https://github.com/washing1127/LeetCode/blob/main/Solutions/0933/0933.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0933/0933.c)|
 |<b style="color: green">0937</b>|[Record Data in Log Files](https://github.com/washing1127/LeetCode/blob/main/Solutions/0937/0937.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0937/0937.c)|

@@ -301,6 +301,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0706</b>|[Design HashMap](https://github.com/washing1127/LeetCode/blob/main/Solutions/0706/0706.txt)|[JS](https://github.com/washing1127/LeetCode/blob/main/Solutions/0706/0706.js)|
 |<b style="color: green">0709</b>|[To Lower Case](https://github.com/washing1127/LeetCode/blob/main/Solutions/0709/0709.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0709/0709.py)|
 |<b style="color: orange">0713</b>|[Subarray Product Less Than K](https://github.com/washing1127/LeetCode/blob/main/Solutions/0713/0713.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0713/0713.py)|
+|<b style="color: red">0715</b>|[Range Module](https://github.com/washing1127/LeetCode/blob/main/Solutions/0715/0715.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0715/0715.py)|
 |<b style="color: green">0717</b>|[1-bit and 2-bit Characters](https://github.com/washing1127/LeetCode/blob/main/Solutions/0717/0717.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0717/0717.py)|
 |<b style="color: red">0719</b>|[Find K-th Smallest Pair Distance](https://github.com/washing1127/LeetCode/blob/main/Solutions/0719/0719.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0719/0719.py)|
 |<b style="color: green">0720</b>|[Longest Word in Dictionary](https://github.com/washing1127/LeetCode/blob/main/Solutions/0720/0720.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0720/0720.py)|

@@ -361,6 +361,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0867</b>|[Transpose Matrix](https://github.com/washing1127/LeetCode/blob/main/Solutions/0867/0867.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0867/0867.py)|
 |<b style="color: green">0868</b>|[Binary Gap](https://github.com/washing1127/LeetCode/blob/main/Solutions/0868/0868.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0868/0868.c)|
 |<b style="color: orange">0869</b>|[Recordered Power of 2](https://github.com/washing1127/LeetCode/blob/main/Solutions/0869/0869.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0869/0869.py)|
+|<b style="color: red">0871</b>|[Minimum Number of Refueling Stops](https://github.com/washing1127/LeetCode/blob/main/Solutions/0871/0871.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0871/0871.py)|
 |<b style="color: green">0872</b>|[Leaf-Similar Trees](https://github.com/washing1127/LeetCode/blob/main/Solutions/0872/0872.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0872/0872.py)|
 |<b style="color: orange">0875</b>|[Koko Eating Bananas](https://github.com/washing1127/LeetCode/blob/main/Solutions/0875/0875.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0875/0875.py)|
 |<b style="color: orange">0877</b>|[Stone Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0877/0877.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0877/0877.py)|

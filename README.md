@@ -323,6 +323,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0732</b>|[My Callender III](https://github.com/washing1127/LeetCode/blob/main/Solutions/0732/0732.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0732/0732.py)|
 |<b style="color: red">0736</b>|[Parse Lisp Expression](https://github.com/washing1127/LeetCode/blob/main/Solutions/0736/0736.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0736/0736.py)|
 |<b style="color: orange">0740</b>|[Delete and Earn](https://github.com/washing1127/LeetCode/blob/main/Solutions/0740/0740.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0740/0740.py)|
+|<b style="color: red">0741</b>|[Cherry Pickup](https://github.com/washing1127/LeetCode/blob/main/Solutions/0741/0741.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0741/0741.py)|
 |<b style="color: orange">0743</b>|[Network Delay Time](https://github.com/washing1127/LeetCode/blob/main/Solutions/0743/0743.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0743/0743.py)|
 |<b style="color: green">0744</b>|[Find Smallest Letter Greater Than Target](https://github.com/washing1127/LeetCode/blob/main/Solutions/0744/0744.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0744/0744.py)|
 |<b style="color: green">0748</b>|[Shortest Completing Word](https://github.com/washing1127/LeetCode/blob/main/Solutions/0748/0748.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0748/0748.py)|

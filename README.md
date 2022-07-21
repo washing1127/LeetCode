@@ -356,6 +356,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0807</b>|[Max Increase to Keep City Skyline](https://github.com/washing1127/LeetCode/blob/main/Solutions/0807/0807.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0807/0807.py)|
 |<b style="color: red">0810</b>|[Chalkboard XOR Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.py)|
 |<b style="color: green">0812</b>|[Largest Triangle Area](https://github.com/washing1127/LeetCode/blob/main/Solutions/0812/0812.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0812/0812.py)|
+|<b style="color: orange">0814</b>|[Binary Tree Pruning](https://github.com/washing1127/LeetCode/blob/main/Solutions/0814/0814.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0814/0814.py)|
 |<b style="color: red">0815</b>|[Bus Routes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.py)|
 |<b style="color: green">0819</b>|[Most Common Word](https://github.com/washing1127/LeetCode/blob/main/Solutions/0819/0819.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0819/0819.c)|
 |<b style="color: green">0821</b>|[Shortest Distance to a Character](https://github.com/washing1127/LeetCode/blob/main/Solutions/0821/0821.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0821/0821.c)|

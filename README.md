@@ -336,6 +336,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0748</b>|[Shortest Completing Word](https://github.com/washing1127/LeetCode/blob/main/Solutions/0748/0748.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0748/0748.py)|
 |<b style="color: red">0749</b>|[Contain Virus](https://github.com/washing1127/LeetCode/blob/main/Solutions/0749/0749.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0749/0749.py)|
 |<b style="color: orange">0752</b>|[Open the Lock](https://github.com/washing1127/LeetCode/blob/main/Solutions/0752/0752.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0752/0752.py)|
+|<b style="color: red">0757</b>|[Set Intersection Size At Least Two](https://github.com/washing1127/LeetCode/blob/main/Solutions/0757/0757.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0757/0757.py)|
 |<b style="color: green">0762</b>|[Prime Number of Set Bits in Binary Representation](https://github.com/washing1127/LeetCode/blob/main/Solutions/0762/0762.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0762/0762.c)|
 |<b style="color: red">0765</b>|[Couples Holding Hands](https://github.com/washing1127/LeetCode/blob/main/Solutions/0765/0765.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0765/0765.py)|
 |<b style="color: red">0766</b>|[Toeplitz Matrix](https://github.com/washing1127/LeetCode/blob/main/Solutions/0766/0766.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0766/0766.py)|

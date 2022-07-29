@@ -270,6 +270,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0589</b>|[N-ary Tree Preorder Traversal](https://github.com/washing1127/LeetCode/blob/main/Solutions/0589/0589.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0589/0589.py)|
 |<b style="color: green">0590</b>|[N-ary Tree Postorder Traversal](https://github.com/washing1127/LeetCode/blob/main/Solutions/0590/0590.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0590/0590.py)|
 |<b style="color: red">0591</b>|[Tag Validator](https://github.com/washing1127/LeetCode/blob/main/Solutions/0591/0591.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0591/0591.c)|
+|<b style="color: orange">0593</b>|[Valid Square](https://github.com/washing1127/LeetCode/blob/main/Solutions/0593/0593.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0593/0593.py)|
 |<b style="color: green">0594</b>|[Longest Harmonious Subsequence](https://github.com/washing1127/LeetCode/blob/main/Solutions/0594/0594.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0594/0594.py)|
 |<b style="color: green">0598</b>|[Range Addition II](https://github.com/washing1127/LeetCode/blob/main/Solutions/0598/0598.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0598/0598.py)|
 |<b style="color: green">0599</b>|[Minimum Index Sum of Two List](https://github.com/washing1127/LeetCode/blob/main/Solutions/0599/0599.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0599/0599.py)|

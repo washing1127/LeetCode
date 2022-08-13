@@ -346,6 +346,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0762</b>|[Prime Number of Set Bits in Binary Representation](https://github.com/washing1127/LeetCode/blob/main/Solutions/0762/0762.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0762/0762.c)|
 |<b style="color: red">0765</b>|[Couples Holding Hands](https://github.com/washing1127/LeetCode/blob/main/Solutions/0765/0765.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0765/0765.py)|
 |<b style="color: red">0766</b>|[Toeplitz Matrix](https://github.com/washing1127/LeetCode/blob/main/Solutions/0766/0766.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0766/0766.py)|
+|<b style="color: red">0768</b>|[Max Chunks To Make Sorted II](https://github.com/washing1127/LeetCode/blob/main/Solutions/0768/0768.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0768/0768.py)|
 |<b style="color: red">0773</b>|[Sliding Puzzle](https://github.com/washing1127/LeetCode/blob/main/Solutions/0773/0773.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0773/0773.py)|
 |<b style="color: red">0780</b>|[Reaching Points](https://github.com/washing1127/LeetCode/blob/main/Solutions/0780/0780.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0780/0780.py)|
 |<b style="color: orange">0781</b>|[Rabbits in Forest](https://github.com/washing1127/LeetCode/blob/main/Solutions/0781/0781.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0781/0781.py)|

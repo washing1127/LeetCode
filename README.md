@@ -396,6 +396,8 @@ The solutions of LeetCode questions.
 |<b style="color: red">0850</b>|[Rectangle Area II](https://github.com/washing1127/LeetCode/blob/main/Solutions/0850/0850.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0850/0850.py)|
 |<b style="color: orange">0851</b>|[Loud andd Rich](https://github.com/washing1127/LeetCode/blob/main/Solutions/0851/0851.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0851/0851.py)|
 |<b style="color: green">0852</b>|[Peak Index in a Mountain Array](https://github.com/washing1127/LeetCode/blob/main/Solutions/0852/0852.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0852/0852.py)|
+|<b style="color: red">0854</b>|[K-Similar Strings](https://github.com/washing1127/LeetCode/blob/main/Solutions/0854/0854.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0854/0854.py)|
+|<b style="color: red">0857</b>|[Minimum Cost to Hire K Workers](https://github.com/washing1127/LeetCode/blob/main/Solutions/0857/0857.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0857/0857.py)|
 |<b style="color: orange">0863</b>|[All Nodes Distance K in Binary Tree](https://github.com/washing1127/LeetCode/blob/main/Solutions/0863/0863.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0863/0863.py)|
 |<b style="color: green">0867</b>|[Transpose Matrix](https://github.com/washing1127/LeetCode/blob/main/Solutions/0867/0867.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0867/0867.py)|
 |<b style="color: green">0868</b>|[Binary Gap](https://github.com/washing1127/LeetCode/blob/main/Solutions/0868/0868.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0868/0868.c)|

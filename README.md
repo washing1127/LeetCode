@@ -329,7 +329,8 @@ The solutions of LeetCode questions.
 |<b style="color: green">0704</b>|[Binary Search](https://github.com/washing1127/LeetCode/blob/main/Solutions/0704/0704.txt)|[C++](https://github.com/washing1127/LeetCode/blob/main/Solutions/0704/0704.cpp)|
 |<b style="color: green">0705</b>|[Design HashSet](https://github.com/washing1127/LeetCode/blob/main/Solutions/0705/0705.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0705/0705.py)|
 |<b style="color: green">0706</b>|[Design HashMap](https://github.com/washing1127/LeetCode/blob/main/Solutions/0706/0706.txt)|[JS](https://github.com/washing1127/LeetCode/blob/main/Solutions/0706/0706.js)|
-|<b style="color: green">0709</b>|[To Lower Case](https://github.com/washing1127/LeetCode/blob/main/Solutions/0709/0709.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0709/0709.py)|
+|<b style="color: orange">0707</b>|[Design Linked List](https://github.com/washing1127/LeetCode/blob/main/Solutions/0707/0707.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0707/0707.py)|
+|<b style="color: green">0709</b>|[To Lower Case](https://github.com/washing1127/LeetCode/blob/main/Solutions/0709/0709.txt)|[Javascript](https://github.com/washing1127/LeetCode/blob/main/Solutions/0709/0709.js)|
 |<b style="color: red">0710</b>|[Random Pick with Blacklist](https://github.com/washing1127/LeetCode/blob/main/Solutions/0710/0710.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0710/0710.py)|
 |<b style="color: orange">0713</b>|[Subarray Product Less Than K](https://github.com/washing1127/LeetCode/blob/main/Solutions/0713/0713.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0713/0713.py)|
 |<b style="color: red">0715</b>|[Range Module](https://github.com/washing1127/LeetCode/blob/main/Solutions/0715/0715.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0715/0715.py)|

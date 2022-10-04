@@ -380,6 +380,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0806</b>|[Number of Lines To Write String](https://github.com/washing1127/LeetCode/blob/main/Solutions/0806/0806.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0806/0806.c)|
 |<b style="color: orange">0807</b>|[Max Increase to Keep City Skyline](https://github.com/washing1127/LeetCode/blob/main/Solutions/0807/0807.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0807/0807.py)|
 |<b style="color: red">0810</b>|[Chalkboard XOR Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.py)|
+|<b style="color: orange">0811</b>|[Subdomain Visit Count](https://github.com/washing1127/LeetCode/blob/main/Solutions/0811/0811.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0811/0811.py)|
 |<b style="color: green">0812</b>|[Largest Triangle Area](https://github.com/washing1127/LeetCode/blob/main/Solutions/0812/0812.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0812/0812.py)|
 |<b style="color: orange">0814</b>|[Binary Tree Pruning](https://github.com/washing1127/LeetCode/blob/main/Solutions/0814/0814.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0814/0814.py)|
 |<b style="color: red">0815</b>|[Bus Routes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.py)|

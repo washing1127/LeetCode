@@ -406,6 +406,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0867</b>|[Transpose Matrix](https://github.com/washing1127/LeetCode/blob/main/Solutions/0867/0867.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0867/0867.py)|
 |<b style="color: green">0868</b>|[Binary Gap](https://github.com/washing1127/LeetCode/blob/main/Solutions/0868/0868.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0868/0868.c)|
 |<b style="color: orange">0869</b>|[Recordered Power of 2](https://github.com/washing1127/LeetCode/blob/main/Solutions/0869/0869.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0869/0869.py)|
+|<b style="color: orange">0870</b>|[Advantage Shuffle](https://github.com/washing1127/LeetCode/blob/main/Solutions/0870/0870.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0870/0870.py)|
 |<b style="color: red">0871</b>|[Minimum Number of Refueling Stops](https://github.com/washing1127/LeetCode/blob/main/Solutions/0871/0871.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0871/0871.py)|
 |<b style="color: green">0872</b>|[Leaf-Similar Trees](https://github.com/washing1127/LeetCode/blob/main/Solutions/0872/0872.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0872/0872.py)|
 |<b style="color: orange">0873</b>|[Length of Longest Fibonacci Subsequence](https://github.com/washing1127/LeetCode/blob/main/Solutions/0873/0873.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0873/0873.py)|

@@ -443,6 +443,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0927</b>|[Three Equal Parts](https://github.com/washing1127/LeetCode/blob/main/Solutions/0927/0927.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0927/0927.py)|
 |<b style="color: green">0929</b>|[Unique Email Addresses](https://github.com/washing1127/LeetCode/blob/main/Solutions/0929/0929.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0929/0929.py)|
 |<b style="color: green">0933</b>|[Number of Recent Calls](https://github.com/washing1127/LeetCode/blob/main/Solutions/0933/0933.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0933/0933.c)|
+|<b style="color: orange">0934</b>|[Shortest Bridge](https://github.com/washing1127/LeetCode/blob/main/Solutions/0934/0934.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0934/0934.py)|
 |<b style="color: green">0937</b>|[Record Data in Log Files](https://github.com/washing1127/LeetCode/blob/main/Solutions/0937/0937.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0937/0937.c)|
 |<b style="color: orange">0938</b>|[Range Sum of BST](https://github.com/washing1127/LeetCode/blob/main/Solutions/0938/0938.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0938/0938.py)|
 |<b style="color: red">0940</b>|[Distinct Subsquences II](https://github.com/washing1127/LeetCode/blob/main/Solutions/0940/0940.txt)|[Python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0940/0940.py)|

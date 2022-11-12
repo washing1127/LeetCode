@@ -376,6 +376,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0787</b>|[Cheapest Flights Within K Stops](https://github.com/washing1127/LeetCode/blob/main/Solutions/0787/0787.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0787/0787.py)|
 |<b style="color: orange">0788</b>|[Rotated Digits](https://github.com/washing1127/LeetCode/blob/main/Solutions/0788/0788.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0788/0788.py)|
 |<b style="color: orange">0789</b>|[Escape The Ghosts](https://github.com/washing1127/LeetCode/blob/main/Solutions/0789/0789.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0789/0789.py)|
+|<b style="color: orange">0790</b>|[Domino and Tromino Tiling](https://github.com/washing1127/LeetCode/blob/main/Solutions/0790/0790.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0790/0790.py)|
 |<b style="color: red">0793</b>|[Preimage Size of Factorial Zeroes Function](https://github.com/washing1127/LeetCode/blob/main/Solutions/0793/0793.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0793/0793.py)|
 |<b style="color: orange">0794</b>|[Valid Tic-Tac State](https://github.com/washing1127/LeetCode/blob/main/Solutions/0794/0794.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0794/0794.py)|
 |<b style="color: green">0796</b>|[Rotate String](https://github.com/washing1127/LeetCode/blob/main/Solutions/0796/0796.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0796/0796.c)|

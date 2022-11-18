@@ -435,6 +435,7 @@ The solutions of LeetCode questions.
 |<b style="color: green">0884</b>|[Uncommon Words from Two Sentences](https://github.com/washing1127/LeetCode/blob/main/Solutions/0884/0884.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0884/0884.py)|
 |<b style="color: orange">0886</b>|[Possible Bipartition](https://github.com/washing1127/LeetCode/blob/main/Solutions/0886/0886.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0886/0886.py)|
 |<b style="color: orange">0890</b>|[Find and Replace Pattern](https://github.com/washing1127/LeetCode/blob/main/Solutions/0890/0890.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0890/0890.py)|
+|<b style="color: red">0891</b>|[Sum of Subsequence Widths](https://github.com/washing1127/LeetCode/blob/main/Solutions/0891/0891.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0891/0891.py)|
 |<b style="color: green">0896</b>|[Monotonic Array](https://github.com/washing1127/LeetCode/blob/main/Solutions/0896/0896.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0896/0896.py)|
 |<b style="color: green">0897</b>|[Increasing Order Search Tree](https://github.com/washing1127/LeetCode/blob/main/Solutions/0897/0897.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0897/0897.py)|
 |<b style="color: red">0899</b>|[Orderly Queue](https://github.com/washing1127/LeetCode/blob/main/Solutions/0899/0899.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0899/0899.py)|

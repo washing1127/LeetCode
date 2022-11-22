@@ -431,6 +431,7 @@ The solutions of LeetCode questions.
 |<b style="color: orange">0873</b>|[Length of Longest Fibonacci Subsequence](https://github.com/washing1127/LeetCode/blob/main/Solutions/0873/0873.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0873/0873.py)|
 |<b style="color: orange">0875</b>|[Koko Eating Bananas](https://github.com/washing1127/LeetCode/blob/main/Solutions/0875/0875.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0875/0875.py)|
 |<b style="color: orange">0877</b>|[Stone Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0877/0877.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0877/0877.py)|
+|<b style="color: red">0878</b>|[Nth Magical Number](https://github.com/washing1127/LeetCode/blob/main/Solutions/0878/0878.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0878/0878.py)|
 |<b style="color: red">0879</b>|[Profitable Schemes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0879/0879.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0879/0879.py)|
 |<b style="color: orange">0881</b>|[Boats to Save People](https://github.com/washing1127/LeetCode/blob/main/Solutions/0881/0881.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0881/0881.py)|
 |<b style="color: green">0883</b>|[Projection Area of 3D Shapes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0883/0883.txt)|[C](https://github.com/washing1127/LeetCode/blob/main/Solutions/0883/0883.c)|

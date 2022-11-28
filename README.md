@@ -398,6 +398,7 @@ The solutions of LeetCode questions.
 |<b style="color: red">0810</b>|[Chalkboard XOR Game](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0810/0810.py)|
 |<b style="color: orange">0811</b>|[Subdomain Visit Count](https://github.com/washing1127/LeetCode/blob/main/Solutions/0811/0811.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0811/0811.py)|
 |<b style="color: green">0812</b>|[Largest Triangle Area](https://github.com/washing1127/LeetCode/blob/main/Solutions/0812/0812.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0812/0812.py)|
+|<b style="color: orange">0813</b>|[Largest Sum of Averages](https://github.com/washing1127/LeetCode/blob/main/Solutions/0813/0813.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0813/0813.py)|
 |<b style="color: orange">0814</b>|[Binary Tree Pruning](https://github.com/washing1127/LeetCode/blob/main/Solutions/0814/0814.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0814/0814.py)|
 |<b style="color: red">0815</b>|[Bus Routes](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.txt)|[python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0815/0815.py)|
 |<b style="color: orange">0816</b>|[Ambiguous Coordinates](https://github.com/washing1127/LeetCode/blob/main/Solutions/0816/0816.txt)|[Python3](https://github.com/washing1127/LeetCode/blob/main/Solutions/0816/0816.py)|

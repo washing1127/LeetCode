@@ -1,0 +1,52 @@
+# -*- coding:utf-8 -*-
+# Author: washing
+# DateTime: 2023/2/5 10:52
+# File: 1210.py
+# Desc: 
+
+
+class Solution:
+    def minimumMoves(self, grid: List[List[int]]) -> int:
+        n = len(grid)
+        dist = {(0, 0, 0): 0}
+        q = deque([(0, 0, 0)])
+
+        while q:
+            x, y, status = q.popleft()
+            if status == 0:
+                # 向右移动一个单元格
+                if y + 2 < n and (x, y + 1, 0) not in dist and grid[x][y + 2] == 0:
+                    dist[(x, y + 1, 0)] = dist[(x, y, 0)] + 1
+                    q.append((x, y + 1, 0))
+
+                # 向下移动一个单元格
+                if x + 1 < n and (x + 1, y, 0) not in dist and grid[x + 1][y] == grid[x + 1][y + 1] == 0:
+                    dist[(x + 1, y, 0)] = dist[(x, y, 0)] + 1
+                    q.append((x + 1, y, 0))
+
+                # 顺时针旋转 90 度
+                if x + 1 < n and y + 1 < n and (x, y, 1) not in dist and grid[x + 1][y] == grid[x + 1][y + 1] == 0:
+                    dist[(x, y, 1)] = dist[(x, y, 0)] + 1
+                    q.append((x, y, 1))
+            else:
+                # 向右移动一个单元格
+                if y + 1 < n and (x, y + 1, 1) not in dist and grid[x][y + 1] == grid[x + 1][y + 1] == 0:
+                    dist[(x, y + 1, 1)] = dist[(x, y, 1)] + 1
+                    q.append((x, y + 1, 1))
+
+                # 向下移动一个单元格
+                if x + 2 < n and (x + 1, y, 1) not in dist and grid[x + 2][y] == 0:
+                    dist[(x + 1, y, 1)] = dist[(x, y, 1)] + 1
+                    q.append((x + 1, y, 1))
+
+                # 逆时针旋转 90 度
+                if x + 1 < n and y + 1 < n and (x, y, 0) not in dist and grid[x][y + 1] == grid[x + 1][y + 1] == 0:
+                    dist[(x, y, 0)] = dist[(x, y, 1)] + 1
+                    q.append((x, y, 0))
+
+        return dist.get((n - 1, n - 2, 0), -1)
+
+# // 作者：力扣官方题解
+# // 链接：https://leetcode.cn/problems/minimum-moves-to-reach-target-with-rotations/solutions/2091767/chuan-guo-mi-gong-de-zui-shao-yi-dong-ci-pmnh/
+# // 来源：力扣（LeetCode）
+# // 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
